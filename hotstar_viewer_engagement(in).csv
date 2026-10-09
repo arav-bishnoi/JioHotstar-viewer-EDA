@@ -1,0 +1,801 @@
+user_id,content_title,genre,language,device,subscription_plan,city,age,watch_date,start_time,watch_duration,percent_completed,data_consumed_mb,rating,subtitles_used
+HS10246,Bigg Boss House,Reality Show,Marathi,Smart TV,Mobile Plan,Chennai,33,8/4/2024,15:30,62,71.5,510.8,2,Yes
+HS12530,Dil Ki Dastaan,Drama,Hindi,Mobile,Mobile Plan,Mumbai,23,4/6/2024,8:53 AM,59,65,504.6,,No
+HS11616,Prime News Hour,News,Tamil,Mobile,Free,Jaipur,30,21-01-2024,2:30 PM,15,15,68.2,2,
+HS12524,Dil Ki Dastaan,Drama,English,Smart TV,Mobile Plan,Mumbai,54,3/3/2024,1:30,34,60.8,259.3,,No
+HS12826,Mahabharat Katha,Devotional,Telugu,Smart TV,Mobile Plan,Pune,39,8/5/2024,5:49 AM,20,0,97.9,,
+HS11028,IPL: MI vs CSK,Cricket,Marathi,Tablet,Super Plan,Indore,48,12/1/2024,10:15 AM,33,71.7,133.6,,Yes
+HS12308,Business Today,News,Tamil,,Premium Plan,Bengaluru,21,10/2/2024,3:45 PM,735,92.2,3885.6,4,No
+HS12843,The Laughter Club,Comedy,English,Laptop,Free,Hyderabad,15,3/2/2024,13:00,52,43.1,414.2,,
+HS11899,IPL: KKR vs SRH,Cricket,Hindi,Smart TV,Free,Delhi,13,10/4/2024,17:15,41,62.7,242.9,2,No
+HS12271,Undercover,Thriller,Hindi,Smart TV,Premium Plan,Pune,40,20-04-2024,22:00,29,95,217.1,,No
+HS11841,Baahubali Reprise,Regional Cinema,Hindi,Smart TV,Free,Surat,29,12/3/2024,18:06,26,49.3,229.6,5,Yes
+HS10487,Baahubali Reprise,Regional Cinema,Tamil,Tablet,Mobile Plan,Indore,32,10/1/2024,5:30 AM,,10.2,126.2,,Yes
+HS10213,Prime News Hour,News,Tamil,Tablet,Free,Surat,19,4/6/2024,1:30 PM,45,99,304.1,,No
+HS11233,Chhota Bheem,Kids,English,,Free,Lucknow,44,11-Mar-24,9:00,34,61.8,154.2,4,Yes
+HS11786,IPL: RR vs LSG,Cricket,Kannada,Mobile,Super Plan,Delhi,55,20-06-2024,11:00 AM,53,43.9,346.4,3,No
+HS10676,IPL: MI vs CSK,Cricket,Marathi,Laptop,Mobile Plan,Surat,56,6/5/2024,1:43 PM,675,57.4,4068.5,1,
+HS10986,India's Got Talent,Reality Show,Tamil,Mobile,Free,Pune,59,6-May-24,9:00 AM,19,100,80.3,3,Yes
+HS11018,Comedy Circus Reloaded,Comedy,Hindi,Smart TV,Super Plan,Pune,3,9/6/2024,1:15 AM,26,77.6,208.7,3,No
+HS12181,Dance Deewane,Reality Show,Marathi,Smart TV,Mobile Plan,Pune,56,8/3/2024,16:45,16,100,71.8,1,
+HS10229,Election Special,News,English,Smart TV,Premium Plan,Delhi,48,4-Apr-24,11:30,80,50.9,675.1,,No
+HS11158,Little Singham,Kids,Bengali,Smart TV,Mobile Plan,Hyderabad,33,8-Feb-24,17:30,10,47.4,68.6,2,No
+HS12091,Ramayan Retelling,Devotional,Bengali,Smart TV,Mobile Plan,Delhi,43,24-04-2024,12:29 PM,705,56.7,6064.9,,Yes
+HS11303,Comedy Circus Reloaded,Comedy,Kannada,Laptop,Premium Plan,Mumbai,50,21-Jun-24,19:25,52,45.4,366.2,,No
+HS12661,Dil Ki Dastaan,Drama,Bengali,Mobile,Super Plan,Mumbai,58,24-May-24,22:00,22,100,103.9,5,No
+HS11620,Business Today,News,Telugu,Laptop,Mobile Plan,Pune,38,20-04-2024,9:20 AM,51,63.8,381.2,,No
+HS11021,IPL: DC vs PBKS,Cricket,Hindi,Laptop,Super Plan,Pune,,11/3/2024,2:45 PM,675,57.4,4205.6,,No
+HS10037,Motu Patlu,Kids,Telugu,Laptop,Super Plan,Jaipur,31,22-06-2024,4:20 PM,41,60.1,359.2,5,Yes
+HS11564,Ramayan Retelling,Devotional,Telugu,Smart TV,Super Plan,Delhi,145,3/6/2024,8:45 AM,53,98.1,414.2,,Yes
+HS12404,IPL: RR vs LSG,Cricket,Kannada,Mobile,Premium Plan,Hyderabad,37,9/2/2024,6:40 PM,42,81.3,280.2,1,No
+HS10505,Hasi Ke Fatke,Comedy,Telugu,Smart TV,Super Plan,Hyderabad,43,24-03-2024,20:07,-27,65.5,219,3,
+HS12367,The Laughter Club,Comedy,Kannada,Tablet,Super Plan,Mumbai,42,23-06-2024,1:45,38,87.9,190.4,4,No
+HS12248,Bigg Boss House,Reality Show,Bengali,Mobile,Mobile Plan,Lucknow,31,29-04-2024,5:15,,38,83.7,,No
+HS12950,Shiv Mahima,Devotional,English,Mobile,Premium Plan,Delhi,27,16-01-2024,2:00 AM,23,21.6,117.2,1,No
+HS11887,Chhota Bheem,Kids,Tamil,Tablet,Super Plan,Surat,52,5/2/2024,18:00,40,29.1,233.3,,
+HS10267,The Laughter Club,Comedy,Hindi,Smart TV,Free,Surat,57,25-05-2024,16:30,31,65.2,163.2,,
+HS10278,IPL: DC vs PBKS,Cricket,Hindi,Mobile,Free,Lucknow,16,24-04-2024,7:30,52 min,26.1,29.5,2,
+HS12964,Mahabharat Katha,Devotional,English,Mobile,Mobile Plan,Delhi,62,4-Apr-24,12:45,28,52.9,181.1,,Yes
+HS11442,Shiv Mahima,Devotional,Bengali,Mobile,Premium Plan,Delhi,46,30-Jun-24,21:47,28,28.2,132.3,,Yes
+HS12799,Motu Patlu,Kids,Marathi,Mobile,Premium Plan,Lucknow,38,19-05-2024,0:30,45,73.7,286.2,1,
+HS10195,Election Special,News,Marathi,Smart TV,Free,Bengaluru,62,11/2/2024,5:49 PM,35,46.4,198.4,1,
+HS10047,Dil Ki Dastaan,Drama,Kannada,Smart TV,Free,Bengaluru,45,16-Mar-24,5:00 AM,43,2.6,194.9,,Yes
+HS10258,Dil Ki Dastaan,Drama,English,,Free,Kolkata,52,4/4/2024,14:15,-53,17.6,445.1,1,Yes
+HS10648,Business Today,News,Kannada,Mobile,Free,Ahmedabad,34,29-Jun-24,4:15 PM,26,54.1,140.2,2,Yes
+HS10029,Pushpa Rising,Regional Cinema,English,Smart TV,Super Plan,Bengaluru,27,15-05-2024,7:15 PM,54,22.6,442.6,,
+HS11793,Criminal Minds India,Thriller,Hindi,Mobile,Super Plan,Indore,23,27-01-2024,4:15 PM,21,59.8,130.4,,
+HS10860,Mahabharat Katha,Devotional,Hindi,Smart TV,Free,Pune,31,3/6/2024,10:05,840,70.4,6820.5,1,No
+HS12470,IPL: KKR vs SRH,Cricket,Telugu,Tablet,Premium Plan,Ahmedabad,43,6/3/2024,10:42,35,60.4,174.4,5,No
+HS10292,Rishtey Anjaane,Drama,Tamil,Smart TV,Free,Indore,36,16-06-2024,10:17 PM,8,83.9,48.6,4,No
+HS10647,Zindagi Gulzar Hai,Drama,Tamil,,Free,Kolkata,28,18-04-2024,14:30,17,30.2,93.1,5,Yes
+HS10279,The Stakeout,Thriller,Marathi,Laptop,Super Plan,Chennai,,31-05-2024,11:00,48,68.9,399.4,,Yes
+HS10466,Baahubali Reprise,Regional Cinema,Hindi,Smart TV,Super Plan,Pune,46,5-Jan-24,11:30,25,100,138.1,,Yes
+HS10863,Kantara,Regional Cinema,Tamil,Laptop,Super Plan,Ahmedabad,24,7/3/2024,17:15,79,100,481.5,,Yes
+HS11455,India's Got Talent,Reality Show,Tamil,Smart TV,Premium Plan,Surat,30,14-06-2024,7:15 PM,70,83,519.6,2,Yes
+HS11337,Shiv Mahima,Devotional,Marathi,Smart TV,Free,Delhi,24,27-05-2024,22:55,53,71.4,371.5,,Yes
+HS10828,Motu Patlu,Kids,Telugu,Laptop,Mobile Plan,Chennai,,13-May-24,15:30,7,97.9,35.3,3,
+HS11176,Baahubali Reprise,Regional Cinema,Tamil,Smart TV,Super Plan,Ahmedabad,121,30-01-2024,14:00,26,54.4,107.8,2,Yes
+HS11940,Shiv Mahima,Devotional,Tamil,Mobile,Premium Plan,Chennai,145,5/2/2024,2:45 PM,15,23,97.4,,Yes
+HS12131,Criminal Minds India,Thriller,Marathi,Smart TV,Super Plan,Jaipur,16,5/5/2024,16:00,39,40.5,313.3,,Yes
+HS11469,Undercover,Thriller,Kannada,Smart TV,Free,Chennai,29,15-01-2024,8:57 AM,17,33.3,110.1,,No
+HS10094,Hasi Ke Fatke,Comedy,Marathi,Tablet,Mobile Plan,Pune,45,4/5/2024,16:03,44,100,238.2,4,Yes
+HS11861,Hasi Ke Fatke,Comedy,Kannada,Smart TV,Free,Indore,58,10/3/2024,12:30,69,100,537.7,4,No
+HS11849,Criminal Minds India,Thriller,English,Mobile,Mobile Plan,Chennai,62,11-Jan-24,16:00,41,85.1,250.6,,
+HS12724,Zindagi Gulzar Hai,Drama,Marathi,Tablet,Free,Mumbai,17,29-02-2024,3:15 AM,26,81,108.9,1,Yes
+HS11392,Mahabharat Katha,Devotional,Bengali,Mobile,Super Plan,Kolkata,,20-01-2024,4:15,81,41.8,385.1,4,Yes
+HS11485,Prime News Hour,News,English,Laptop,Free,Mumbai,53,28-01-2024,6:00 AM,70,73.6,309.8,,
+HS11891,Hasi Ke Fatke,Comedy,Tamil,Tablet,Free,Ahmedabad,18,26-04-2024,10:45,62,33.1,415.2,,Yes
+HS11972,Bigg Boss House,Reality Show,Tamil,Smart TV,Mobile Plan,Bengaluru,29,16-Mar-24,23:45,1,71.9,8.2,,Yes
+HS11289,IPL: DC vs PBKS,Cricket,Hindi,Smart TV,Super Plan,Kolkata,50,22-03-2024,5:00 PM,87,51,640.9,2,Yes
+HS12643,Chhota Bheem,Kids,Tamil,Mobile,Free,Hyderabad,17,8/6/2024,2:15 AM,270,55.1,1293,,
+HS12522,Criminal Minds India,Thriller,English,Mobile,Super Plan,Bengaluru,16,25-02-2024,19:15,35,89.7,216.9,,No
+HS11301,The Stakeout,Thriller,Tamil,Mobile,Super Plan,Hyderabad,33,26-06-2024,6:30 PM,50,69.3,269.2,4,Yes
+HS10298,Dance Deewane,Reality Show,Kannada,Tablet,Super Plan,Indore,,30-Mar-24,2:41 PM,20,100,176,,No
+HS11246,Dil Ki Dastaan,Drama,Tamil,Smart TV,Super Plan,Lucknow,22,7/4/2024,10:15 PM,-26,61.9,186.8,4,Yes
+HS12070,Kantara,Regional Cinema,Kannada,Smart TV,Free,Delhi,59,16-06-2024,13:15,40,44.9,222.5,,Yes
+HS10690,Prime News Hour,News,Hindi,Smart TV,Mobile Plan,Indore,18,9/5/2024,17:15,40,100,330.4,4,No
+HS11473,Shiv Mahima,Devotional,Telugu,Mobile,Super Plan,Mumbai,22,30-04-2024,6:30,46,100,399,,
+HS12881,Little Singham,Kids,Hindi,Smart TV,Premium Plan,Pune,51,16-03-2024,7:15 PM,24,80.4,161.9,,No
+HS10985,Undercover,Thriller,Telugu,Laptop,Free,Surat,28,3/5/2024,2:30 AM,47,64.2,351.3,2,Yes
+HS10567,Ramayan Retelling,Devotional,Telugu,Tablet,Super Plan,Pune,38,8/2/2024,2:51 AM,31,35,272.5,,No
+HS10397,Rishtey Anjaane,Drama,Bengali,Tablet,Free,Surat,62,14-05-2024,6:15 PM,1,49.5,7.5,4,No
+HS11854,The Laughter Club,Comedy,Tamil,Mobile,Mobile Plan,Mumbai,38,27-05-2024,9:01 AM,26,69.6,109.1,5,Yes
+HS12296,Prime News Hour,News,Tamil,Tablet,Mobile Plan,Bengaluru,18,27-06-2024,18:45,40,30.8,285.3,,Yes
+HS12690,Election Special,News,English,Laptop,Free,Delhi,48,22-03-2024,22:15,49,30.9,343.4,,
+HS11860,Ramayan Retelling,Devotional,Kannada,Laptop,Premium Plan,Kolkata,,8/5/2024,10:45 PM,37,69.9,285.5,2,No
+HS11553,Baahubali Reprise,Regional Cinema,Hindi,Smart TV,Free,Jaipur,19,13-02-2024,3:45 PM,12,56.8,60.7,2,
+HS11813,Little Singham,Kids,Telugu,Laptop,Mobile Plan,Delhi,48,16-01-2024,6:15,-22,44.9,132.9,,
+HS10842,Chhota Bheem,Kids,Kannada,Smart TV,Super Plan,Ahmedabad,22,10/2/2024,6:12 PM,11,50.5,66,,No
+HS12331,The Stakeout,Thriller,Telugu,Mobile,Free,Lucknow,38,24-01-2024,20:45,23,59.6,139.7,2,No
+HS10809,Rishtey Anjaane,Drama,Telugu,Mobile,Premium Plan,Jaipur,24,2/1/2024,21:15,1,67.6,8.9,1,No
+HS10208,Baahubali Reprise,Regional Cinema,Telugu,Smart TV,Mobile Plan,Chennai,43,29-01-2024,9:15 PM,60,38.8,240.7,,
+HS10259,Shiv Mahima,Devotional,English,Mobile,Super Plan,Surat,,21-05-2024,19:30,1,70.8,8.2,,No
+HS11984,The Laughter Club,Comedy,Telugu,Laptop,Free,Indore,26,11/6/2024,16:15,25 min,75.9,261.2,,No
+HS11209,Hasi Ke Fatke,Comedy,Tamil,Smart TV,Mobile Plan,Indore,54,3-Mar-24,17:30,11,100,53.3,,Yes
+HS12396,Criminal Minds India,Thriller,Telugu,Smart TV,Free,Hyderabad,30,5-Jun-24,5:30,81,80.2,337,,
+HS12214,Election Special,News,Kannada,,Free,Lucknow,34,25-06-2024,16:30,69,99.7,412.9,5,Yes
+HS10925,Undercover,Thriller,Kannada,Smart TV,Free,Hyderabad,49,16-03-2024,0:54,24,4,197.7,,
+HS11843,Mahabharat Katha,Devotional,Tamil,Smart TV,Mobile Plan,Kolkata,39,2/2/2024,11:45 PM,51,99.9,398.5,4,
+HS12830,The Laughter Club,Comedy,Hindi,Laptop,Mobile Plan,Pune,15,7-Feb-24,4:30,13,92.8,68.2,,Yes
+HS12606,IPL: RR vs LSG,Cricket,English,,Super Plan,Surat,49,8/5/2024,7:45 PM,13,44.9,57.9,,Yes
+HS10337,Rishtey Anjaane,Drama,Kannada,Mobile,Mobile Plan,Indore,145,9/6/2024,6:15 AM,36,53.4,260.4,4,Yes
+HS12392,Bigg Boss House,Reality Show,Hindi,Smart TV,Super Plan,Hyderabad,24,9/3/2024,7:45,9,34.7,77.1,3,Yes
+HS11734,Election Special,News,English,Laptop,Free,Ahmedabad,22,16-06-2024,9:30 AM,42,67.4,339.8,,No
+HS12173,Mahabharat Katha,Devotional,Kannada,Mobile,Mobile Plan,Indore,27,28-02-2024,11:00 AM,10,7.2,87.1,,
+HS12049,Rishtey Anjaane,Drama,Bengali,Tablet,Mobile Plan,Bengaluru,26,8-Apr-24,11:19,28 min,24.9,218.8,3,No
+HS11575,Motu Patlu,Kids,Kannada,Mobile,Mobile Plan,Surat,19,18-01-2024,6:40,41,6.9,240.7,5,No
+HS11975,Little Singham,Kids,Tamil,Smart TV,Mobile Plan,Chennai,17,30-03-2024,18:53,,66.6,385.3,,Yes
+HS11283,Business Today,News,Marathi,Tablet,Super Plan,Lucknow,29,1-Mar-24,6:00,52,61.4,346.7,,Yes
+HS12954,Little Singham,Kids,Telugu,Tablet,Mobile Plan,Chennai,13,25-05-2024,5:45 AM,27,70.9,119.5,3,No
+HS11542,Prime News Hour,News,Marathi,Smart TV,Super Plan,Pune,26,24-06-2024,8:45 PM,75 min,74.2,332.9,4,No
+HS12512,Vikram,Regional Cinema,Marathi,Laptop,Mobile Plan,Kolkata,53,17-06-2024,9:15 AM,17,50.8,108.9,5,Yes
+HS12971,Rishtey Anjaane,Drama,Bengali,Smart TV,Mobile Plan,Jaipur,26,27-06-2024,14:00,23,52.6,105,,Yes
+HS12851,Little Singham,Kids,Marathi,Mobile,Premium Plan,Ahmedabad,62,9-Apr-24,21:20,18,75.1,140,3,
+HS10512,India's Got Talent,Reality Show,Tamil,Smart TV,Super Plan,Mumbai,16,21-01-2024,5:00,15,68,117.4,5,Yes
+HS11180,Dance Deewane,Reality Show,Hindi,,Free,Indore,28,12-Jun-24,2:45 AM,20 min,35.5,487,,No
+HS10154,Baahubali Reprise,Regional Cinema,Bengali,Smart TV,Mobile Plan,Jaipur,64,1/6/2024,5:45,29,41.2,120.9,,
+HS11036,IPL: DC vs PBKS,Cricket,Telugu,Mobile,Mobile Plan,Lucknow,51,2-Jan-24,7:13 AM,74,77.7,622.4,,Yes
+HS12503,Mahabharat Katha,Devotional,Telugu,Smart TV,Mobile Plan,Delhi,48,10/1/2024,9:30 AM,43,25.8,200.9,,Yes
+HS12445,Bigg Boss House,Reality Show,Bengali,Laptop,Free,Chennai,27,23-May-24,12:15 PM,60,83.1,427.6,,
+HS10670,Motu Patlu,Kids,Bengali,Mobile,Premium Plan,Indore,19,27-May-24,12:15,17,57.7,136.5,5,
+HS10367,Business Today,News,Hindi,Mobile,Mobile Plan,Lucknow,28,24-Mar-24,0:45,-46,87.3,341.6,,No
+HS12015,Dil Ki Dastaan,Drama,Kannada,Smart TV,Premium Plan,Surat,54,2/6/2024,8:45 PM,39,63.6,313.6,4,No
+HS12880,IPL: RCB vs GT,Cricket,Marathi,Mobile,Mobile Plan,Pune,49,29-02-2024,1:08 AM,22,56.6,114.1,3,No
+HS11921,Dil Ki Dastaan,Drama,Hindi,Mobile,Free,Mumbai,35,3/1/2024,3:58,51,89.2,419.7,,Yes
+HS11135,Shiv Mahima,Devotional,Marathi,Smart TV,Free,Kolkata,27,20-01-2024,7:30,34,41.3,146.9,2,No
+HS12504,Undercover,Thriller,Marathi,Mobile,Super Plan,Pune,47,12/5/2024,5:45 PM,65,89.6,479.7,,Yes
+HS11226,Business Today,News,Bengali,Mobile,Free,Jaipur,53,24-06-2024,11:15,4 min,100,46.3,5,
+HS10600,Ghar Ek Sapna,Drama,Tamil,Smart TV,Free,Indore,32,5/5/2024,17:45,74,35.2,487.6,,
+HS11597,Dance Deewane,Reality Show,Kannada,Tablet,Free,Chennai,53,6/2/2024,7:30 PM,56,83.3,470,,Yes
+HS12419,Undercover,Thriller,Marathi,Tablet,Free,Mumbai,41,7/4/2024,19:15,14,0,101.8,,Yes
+HS10168,Mahabharat Katha,Devotional,Kannada,Smart TV,Super Plan,Mumbai,54,12/1/2024,4:30 AM,18,33.2,85.8,,Yes
+HS11119,The Stakeout,Thriller,English,Laptop,Mobile Plan,Hyderabad,64,6-Apr-24,5:43 AM,-35,46,186.9,1,No
+HS12177,Rishtey Anjaane,Drama,English,Mobile,Premium Plan,Pune,14,23-05-2024,1:15,31,84.9,220.9,3,No
+HS12747,Zindagi Gulzar Hai,Drama,Kannada,Smart TV,Mobile Plan,Hyderabad,45,10-Jun-24,11:00,900,58.8,6178.4,,
+HS11678,India's Got Talent,Reality Show,English,Mobile,Free,Kolkata,14,9/6/2024,19:30,37,74.6,278.4,,Yes
+HS12346,Comedy Circus Reloaded,Comedy,Tamil,Mobile,Free,Chennai,21,18-05-2024,6:15 AM,29,43.4,247.9,5,No
+HS10042,India's Got Talent,Reality Show,Tamil,Tablet,Free,Indore,37,4/3/2024,9:15 PM,62,55.2,334.5,,
+HS12264,The Laughter Club,Comedy,Telugu,Tablet,Free,Delhi,,17-Jun-24,8:18 PM,10,10.6,44.5,1,Yes
+HS10379,Undercover,Thriller,Hindi,Tablet,Premium Plan,Delhi,22,9/2/2024,10:45 AM,55,0,406.1,5,No
+HS11809,The Stakeout,Thriller,English,Smart TV,Free,Kolkata,37,20-02-2024,11:46,42,91.4,362.5,2,Yes
+HS12283,Bigg Boss House,Reality Show,Telugu,Smart TV,Super Plan,Indore,23,19-06-2024,14:39,56,82.6,296.6,4,No
+HS12211,Motu Patlu,Kids,Kannada,Laptop,Super Plan,Ahmedabad,2,9/5/2024,23:30,43,69.2,330.4,,No
+HS12612,Ramayan Retelling,Devotional,Kannada,Tablet,Premium Plan,Chennai,61,9/6/2024,16:30,34,46.8,190.2,4,Yes
+HS11536,IPL: DC vs PBKS,Cricket,Kannada,Smart TV,Premium Plan,Delhi,65,23-Feb-24,1:45,35,23.3,170.6,,
+HS12291,IPL: RR vs LSG,Cricket,English,Laptop,Free,Pune,20,6/5/2024,14:00,58,53.6,269.1,,Yes
+HS10382,IPL: DC vs PBKS,Cricket,Hindi,Smart TV,Super Plan,Indore,60,9/2/2024,7:45 PM,40 min,58.1,48.9,,No
+HS11021,IPL: DC vs PBKS,Cricket,Hindi,Laptop,Super Plan,Pune,,11/3/2024,2:45 PM,675,57.4,4205.6,,No
+HS10797,Business Today,News,Tamil,Mobile,Mobile Plan,Pune,63,25-04-2024,19:43,56,41.9,435.4,3,No
+HS12181,Mahabharat Katha,Devotional,Telugu,Mobile,Mobile Plan,Jaipur,36,17-04-2024,22:15,42,73.5,196.1,,Yes
+HS12264,Ghar Ek Sapna,Drama,Bengali,Smart TV,Mobile Plan,Hyderabad,39,20-02-2024,17:15,,0.7,231,2,Yes
+HS12958,Business Today,News,Marathi,Tablet,Super Plan,Pune,,4/4/2024,8:45 PM,74,70.7,554.1,1,No
+HS11573,Vikram,Regional Cinema,Kannada,Smart TV,Super Plan,Ahmedabad,32,27-05-2024,6:15,55,92,479.9,,
+HS10065,Kantara,Regional Cinema,Hindi,Laptop,Super Plan,Mumbai,23,23-06-2024,7:00 AM,45,74.4,204.2,,Yes
+HS11752,Bigg Boss House,Reality Show,Kannada,Tablet,Premium Plan,Delhi,56,4/4/2024,12:45 AM,42,19.9,250.9,,
+HS11720,Kantara,Regional Cinema,Tamil,Laptop,Premium Plan,Ahmedabad,37,17-Jan-24,8:15 PM,-26,77.7,229.4,,Yes
+HS12958,Business Today,News,Marathi,Tablet,Super Plan,Pune,,4/4/2024,8:45 PM,74,70.7,554.1,1,No
+HS12308,Business Today,News,Tamil,,Premium Plan,Bengaluru,21,10/2/2024,3:45 PM,735,92.2,3885.6,4,No
+HS11624,IPL: MI vs CSK,Cricket,Tamil,Mobile,Super Plan,Indore,28,4/2/2024,21:45,32 min,59.2,54.8,2,No
+HS12572,Undercover,Thriller,Kannada,Mobile,Mobile Plan,Pune,21,27-05-2024,8:10,4,89.6,21.5,,No
+HS12536,India's Got Talent,Reality Show,Tamil,Tablet,Mobile Plan,Jaipur,64,20-May-24,1:30,63,83.1,565.1,,
+HS11675,Criminal Minds India,Thriller,Marathi,Laptop,Free,Jaipur,38,17-06-2024,22:45,26,100,223.7,,No
+HS10896,Vikram,Regional Cinema,Kannada,Smart TV,Premium Plan,Mumbai,23,3/6/2024,22:45,44,72.7,218.8,4,Yes
+HS12818,Dil Ki Dastaan,Drama,Hindi,Laptop,Free,Ahmedabad,57,17-05-2024,1:45 AM,61,57.6,359.2,3,No
+HS10421,Motu Patlu,Kids,Kannada,Smart TV,Premium Plan,Kolkata,51,4-May-24,2:27 PM,68,83.2,464.8,,Yes
+HS12595,Little Singham,Kids,Bengali,Laptop,Super Plan,Hyderabad,38,12/1/2024,15:45,46,59,363.7,,Yes
+HS10584,India's Got Talent,Reality Show,Hindi,Smart TV,Free,Indore,34,13-04-2024,19:15,,79.4,479.9,5,
+HS12606,Vikram,Regional Cinema,Telugu,Laptop,Mobile Plan,Surat,61,21-04-2024,3:15 AM,53,68.4,254.1,5,Yes
+HS12119,Criminal Minds India,Thriller,English,Smart TV,Free,Pune,15,6/1/2024,18:00,20,17.6,103.8,,No
+HS10541,Criminal Minds India,Thriller,Kannada,Tablet,Super Plan,Surat,16,18-02-2024,3:45,67,53.2,288.3,1,Yes
+HS12053,Motu Patlu,Kids,Marathi,Laptop,Premium Plan,Kolkata,,8/1/2024,7:30 AM,64,46.7,473,,No
+HS10021,Vikram,Regional Cinema,Tamil,Mobile,Premium Plan,Surat,17,7/1/2024,10:00 PM,,63.8,438.3,1,No
+HS11553,Bigg Boss House,Reality Show,Telugu,Laptop,Free,Hyderabad,28,18-02-2024,1:45 AM,25,85.6,174.2,,No
+HS11105,Ramayan Retelling,Devotional,Marathi,Mobile,Free,Pune,40,15-04-2024,21:30,43,36.5,191.2,,No
+HS10195,Election Special,News,Marathi,Smart TV,Free,Bengaluru,62,11/2/2024,5:49 PM,35,46.4,198.4,1,
+HS11346,Comedy Circus Reloaded,Comedy,Tamil,Smart TV,Super Plan,Hyderabad,34,11-Jan-24,8:30 PM,42,0,179.4,,No
+HS11682,IPL: KKR vs SRH,Cricket,Marathi,Tablet,Super Plan,Pune,50,7-Apr-24,21:15,31 min,35.9,472.6,4,Yes
+HS11946,Zindagi Gulzar Hai,Drama,Telugu,Smart TV,Mobile Plan,Delhi,62,27-Jun-24,15:15,50,86.6,244,2,
+HS11953,Rishtey Anjaane,Drama,Bengali,Smart TV,Mobile Plan,Ahmedabad,21,23-04-2024,12:30 AM,33,85.6,195.2,,Yes
+HS11887,Comedy Circus Reloaded,Comedy,Hindi,Tablet,Super Plan,Kolkata,45,25-04-2024,8:07,48,21.1,204.8,,Yes
+HS10862,India's Got Talent,Reality Show,Marathi,Mobile,Premium Plan,Jaipur,14,15-Feb-24,11:30 PM,28,100,171.1,,No
+HS12297,Little Singham,Kids,Bengali,Smart TV,Free,Ahmedabad,64,14-Jun-24,21:45,40,20,358.1,,No
+HS12940,Bigg Boss House,Reality Show,Telugu,Laptop,Free,Jaipur,23,6/5/2024,0:45,34,47.9,261.6,,
+HS12503,Kantara,Regional Cinema,Tamil,Laptop,Super Plan,Delhi,33,7/6/2024,9:30 PM,57,100,261.3,,Yes
+HS11091,The Laughter Club,Comedy,Tamil,Tablet,Mobile Plan,Hyderabad,47,11-May-24,3:45 PM,52,73.3,456.1,,No
+HS12521,Prime News Hour,News,Tamil,Smart TV,Premium Plan,Surat,55,3/6/2024,5:27,,70.9,258.6,,Yes
+HS11016,IPL: KKR vs SRH,Cricket,Telugu,Smart TV,Mobile Plan,Surat,16,9/3/2024,9:37,39,27.7,215.8,,No
+HS12212,Prime News Hour,News,Tamil,Laptop,Premium Plan,Pune,26,17-06-2024,6:15,64,80.2,536.8,,No
+HS12521,Prime News Hour,News,Tamil,Mobile,Premium Plan,Surat,55,3/6/2024,5:27,,70.9,258.6,,Yes
+HS12325,IPL: DC vs PBKS,Cricket,Marathi,Smart TV,Free,Hyderabad,,7/3/2024,12:30,24,53.6,188.4,,Yes
+HS10579,Undercover,Thriller,Hindi,Tablet,Premium Plan,Delhi,65,7/6/2024,7:15,13,35.5,63.1,,
+HS12537,IPL: KKR vs SRH,Cricket,Hindi,Tablet,Free,Lucknow,18,8-Apr-24,13:45,25,86.3,195.1,,Yes
+HS12238,Election Special,News,Marathi,Tablet,Premium Plan,Jaipur,61,21-02-2024,1:15,31,43.5,193.5,3,Yes
+HS12841,Rishtey Anjaane,Drama,Telugu,Tablet,Premium Plan,Jaipur,63,28-Jun-24,9:15,35 min,86.5,152.9,,Yes
+HS11255,Bigg Boss House,Reality Show,Tamil,Tablet,Mobile Plan,Kolkata,58,10-May-24,20:30,62,57.3,525.5,,No
+HS11242,Bigg Boss House,Reality Show,Hindi,Mobile,Super Plan,Bengaluru,57,20-Feb-24,9:00 PM,49 min,32.4,116.4,,No
+HS11293,Mahabharat Katha,Devotional,Tamil,Smart TV,Mobile Plan,Hyderabad,59,1/5/2024,15:30,49,92.5,303.3,,
+HS10385,Baahubali Reprise,Regional Cinema,Kannada,Tablet,Mobile Plan,Ahmedabad,29,1/5/2024,10:00,,1.9,302.1,,Yes
+HS12893,Rishtey Anjaane,Drama,English,Mobile,Super Plan,Mumbai,40,8/2/2024,3:45,55,96.7,457.7,1,No
+HS11863,Election Special,News,Hindi,,Mobile Plan,Chennai,23,24-06-2024,2:15 PM,48,38,207.5,,Yes
+HS11697,IPL: RR vs LSG,Cricket,Hindi,Tablet,Mobile Plan,Ahmedabad,50,30-05-2024,3:00 PM,1,57.3,7.5,2,No
+HS11761,Chhota Bheem,Kids,Bengali,Laptop,Mobile Plan,Surat,55,21-04-2024,10:45 AM,555,80.2,2744.3,1,Yes
+HS12197,Shiv Mahima,Devotional,Hindi,Mobile,Super Plan,Ahmedabad,48,17-05-2024,6:00,54,65.4,226.6,1,
+HS10559,Zindagi Gulzar Hai,Drama,Telugu,Tablet,Free,Lucknow,23,28-03-2024,9:15 AM,26,47.5,115.2,2,
+HS11505,Motu Patlu,Kids,Telugu,Smart TV,Super Plan,Hyderabad,59,22-06-2024,2:33,33,41.6,283.8,2,
+HS12012,Dil Ki Dastaan,Drama,Bengali,Tablet,Super Plan,Lucknow,32,19-Mar-24,9:00 AM,15 min,0,84.1,5,
+HS11552,Election Special,News,Marathi,Smart TV,Free,Kolkata,31,25-02-2024,6:00 PM,38,64.7,189.2,4,Yes
+HS12695,Little Singham,Kids,Bengali,Laptop,Free,Lucknow,63,25-Feb-24,9:49,38,25.2,334.2,,
+HS11769,The Stakeout,Thriller,Marathi,Smart TV,Super Plan,Chennai,47,25-Jan-24,10:15 PM,90,76.9,674.1,1,No
+HS11243,Prime News Hour,News,Tamil,Laptop,Super Plan,Mumbai,38,21-Mar-24,9:27,51,95.2,368.7,3,No
+HS11121,Shiv Mahima,Devotional,Bengali,Smart TV,Free,Lucknow,15,22-06-2024,10:25,82,22.9,468.7,,
+HS12409,Pushpa Rising,Regional Cinema,Kannada,Mobile,Free,Surat,24,5-Jun-24,15:45,62 min,64.3,270.1,,Yes
+HS10397,IPL: RCB vs GT,Cricket,English,Smart TV,Free,Jaipur,54,21-Jan-24,3:45,35,19.3,204.9,,No
+HS10273,IPL: DC vs PBKS,Cricket,English,Smart TV,Mobile Plan,Delhi,35,11/2/2024,12:15 PM,27,100,236.1,,No
+HS10137,Dance Deewane,Reality Show,Marathi,Mobile,Mobile Plan,Jaipur,60,23-Feb-24,12:30 PM,720,100,3791.9,,Yes
+HS11087,Dil Ki Dastaan,Drama,Hindi,Laptop,Super Plan,Hyderabad,,11/5/2024,8:15,48 min,59.1,109.1,,Yes
+HS11635,IPL: RR vs LSG,Cricket,Marathi,Mobile,Mobile Plan,Hyderabad,21,8/3/2024,1:45,33,100,253.1,,Yes
+HS10066,Prime News Hour,News,Tamil,Smart TV,Super Plan,Bengaluru,54,9/6/2024,18:30,62,76.1,552.1,4,No
+HS11871,IPL: RCB vs GT,Cricket,Telugu,Smart TV,Premium Plan,Jaipur,56,20-Jan-24,8:21 AM,42,0,234.5,,No
+HS11910,Hasi Ke Fatke,Comedy,English,Laptop,Mobile Plan,Hyderabad,46,9/6/2024,3:50 PM,9 min,54.3,194.8,5,Yes
+HS12848,Chhota Bheem,Kids,Marathi,Mobile,Premium Plan,Jaipur,61,8-Jan-24,19:45,27,71.8,157.9,1,
+HS10788,Prime News Hour,News,Marathi,Mobile,Premium Plan,Chennai,51,25-06-2024,6:45,10,91.3,54.8,2,Yes
+HS10506,The Stakeout,Thriller,Marathi,Smart TV,Super Plan,Pune,48,29-May-24,8:00 PM,27,47.4,195.4,2,No
+HS12893,The Laughter Club,Comedy,English,Tablet,Free,Delhi,23,10/1/2024,9:30,44,55.6,308.8,,
+HS12005,Dil Ki Dastaan,Drama,Marathi,Mobile,Premium Plan,Indore,35,21-05-2024,19:00,49,48.9,331.2,5,No
+HS11683,Chhota Bheem,Kids,Marathi,Tablet,Mobile Plan,Kolkata,15,1/5/2024,5:45,52,56,387.5,3,Yes
+HS10466,Baahubali Reprise,Regional Cinema,Hindi,Mobile,Super Plan,Pune,46,5-Jan-24,11:30,25,100,138.1,,Yes
+HS10070,Dil Ki Dastaan,Drama,English,Tablet,Super Plan,Indore,35,19-03-2024,15:35,30,58.2,166,,No
+HS12872,Ghar Ek Sapna,Drama,Telugu,Mobile,Premium Plan,Bengaluru,39,8/1/2024,11:00,16 min,100,332.6,4,No
+HS12251,Little Singham,Kids,Kannada,Mobile,Premium Plan,Chennai,13,30-03-2024,8:14 AM,21,43.6,137.2,,
+HS12256,Ghar Ek Sapna,Drama,Bengali,Mobile,Mobile Plan,Jaipur,62,15-04-2024,2:42 PM,54,91.5,415.9,,No
+HS11996,Shiv Mahima,Devotional,Marathi,Mobile,Super Plan,Hyderabad,19,28-03-2024,2:30,22 min,0,366.6,1,Yes
+HS11466,Motu Patlu,Kids,Telugu,Mobile,Free,Chennai,28,6-Jan-24,7:29 PM,11,11.6,62.6,5,No
+HS11541,Election Special,News,English,Smart TV,Premium Plan,Chennai,,1-Feb-24,11:15,42,72.3,208.2,3,
+HS11740,Hasi Ke Fatke,Comedy,Tamil,Tablet,Free,Pune,15,9/4/2024,6:00 PM,16,38.7,134.6,4,No
+HS11191,Comedy Circus Reloaded,Comedy,Bengali,Mobile,Free,Bengaluru,23,3/4/2024,9:15 PM,6,66.1,43.8,5,No
+HS12783,Chhota Bheem,Kids,Marathi,Laptop,Premium Plan,Jaipur,,29-05-2024,7:45 PM,24,64.5,180.4,1,Yes
+HS11885,Prime News Hour,News,Bengali,Smart TV,Mobile Plan,Ahmedabad,14,18-04-2024,9:00 PM,,39.7,265.9,,Yes
+HS10366,The Stakeout,Thriller,Tamil,Tablet,Free,Ahmedabad,,18-03-2024,0:15,26,82.8,142.9,4,No
+HS11684,Zindagi Gulzar Hai,Drama,Marathi,Mobile,Premium Plan,Ahmedabad,62,26-Jan-24,4:00 PM,58,100,288.7,1,No
+HS10625,Criminal Minds India,Thriller,Hindi,Mobile,Free,Kolkata,20,25-01-2024,4:00 AM,7,62.1,51.3,,No
+HS12005,The Stakeout,Thriller,Telugu,Laptop,Mobile Plan,Jaipur,15,18-04-2024,1:30 PM,28,55,176.9,,No
+HS12999,Baahubali Reprise,Regional Cinema,Marathi,Laptop,Free,Bengaluru,31,23-05-2024,7:42 AM,47,61.6,188.4,,
+HS10144,Ramayan Retelling,Devotional,Marathi,Smart TV,Mobile Plan,Surat,45,23-03-2024,13:30,46 min,43.1,316.7,2,No
+HS12079,Bigg Boss House,Reality Show,Tamil,Smart TV,Mobile Plan,Chennai,64,15-05-2024,19:45,4,43.1,20.8,,
+HS10859,Prime News Hour,News,English,Laptop,Free,Lucknow,,22-Mar-24,21:30,63,35.4,317.1,1,Yes
+HS12982,Undercover,Thriller,Telugu,Smart TV,Mobile Plan,Bengaluru,41,18-May-24,15:59,52,94.7,401.1,,No
+HS10693,Business Today,News,Hindi,Smart TV,Mobile Plan,Chennai,15,19-06-2024,2:12,38,77.4,229.8,5,Yes
+HS12147,Zindagi Gulzar Hai,Drama,Hindi,Laptop,Mobile Plan,Delhi,60,13-02-2024,1:15 PM,675,37.3,5749.6,,No
+HS10601,IPL: RCB vs GT,Cricket,Hindi,Smart TV,Free,Chennai,29,24-Jun-24,6:00 PM,24,52.8,197.4,,Yes
+HS11862,IPL: DC vs PBKS,Cricket,Marathi,Smart TV,Mobile Plan,Ahmedabad,36,14-01-2024,1:00 PM,64,100,567,5,Yes
+HS10389,Pushpa Rising,Regional Cinema,Tamil,Laptop,Super Plan,Ahmedabad,42,12/4/2024,17:30,6 min,73.2,482.2,1,Yes
+HS10975,Baahubali Reprise,Regional Cinema,Hindi,Smart TV,Super Plan,Delhi,60,24-01-2024,7:57,9,17.8,42,5,No
+HS11985,Ghar Ek Sapna,Drama,Marathi,Mobile,Super Plan,Ahmedabad,20,30-06-2024,9:00 AM,-44,67.8,285.6,2,Yes
+HS11883,Dil Ki Dastaan,Drama,Bengali,Tablet,Mobile Plan,Ahmedabad,52,30-Jun-24,9:45,6,65.5,26.6,3,Yes
+HS12512,Vikram,Regional Cinema,Marathi,Mobile,Mobile Plan,Kolkata,53,17-06-2024,9:15 AM,17,50.8,108.9,5,Yes
+HS10724,Business Today,News,Hindi,Mobile,Mobile Plan,Lucknow,,23-02-2024,18:15,59,100,362.7,,No
+HS10146,The Stakeout,Thriller,English,Smart TV,Mobile Plan,Indore,20,30-Jan-24,1:30 AM,16,71.5,92,1,No
+HS12276,Undercover,Thriller,Bengali,Smart TV,Free,Jaipur,44,7/4/2024,5:00 PM,50,14.4,206.7,2,Yes
+HS11979,The Stakeout,Thriller,Tamil,Mobile,Mobile Plan,Kolkata,40,29-05-2024,6:15,39,53.1,205.6,3,Yes
+HS11575,Little Singham,Kids,Marathi,Laptop,Premium Plan,Chennai,38,24-06-2024,5:15 PM,84,49.1,729.3,,No
+HS10923,Election Special,News,Tamil,Mobile,Super Plan,Indore,43,11/3/2024,2:30,18,75.3,146.3,,Yes
+HS12657,Vikram,Regional Cinema,Tamil,,Free,Jaipur,45,26-Mar-24,11:15 PM,5,73.9,28.5,,No
+HS10151,Bigg Boss House,Reality Show,Tamil,Smart TV,Free,Delhi,,12/3/2024,8:00 PM,55,68.5,301.9,,Yes
+HS12182,Election Special,News,English,Tablet,Free,Mumbai,30,16-03-2024,10:45 AM,15,54.2,122.5,,No
+HS11760,Zindagi Gulzar Hai,Drama,Kannada,Smart TV,Free,Ahmedabad,45,11-Jun-24,12:45 AM,55,42.5,481.6,,Yes
+HS12437,Dil Ki Dastaan,Drama,Marathi,Laptop,Super Plan,Chennai,46,10-Mar-24,2:15,59,42.5,346.4,,Yes
+HS10406,The Laughter Club,Comedy,Tamil,Laptop,Super Plan,Bengaluru,45,1/2/2024,14:00,52,28.2,304.8,,No
+HS10100,Shiv Mahima,Devotional,Telugu,Mobile,Premium Plan,Ahmedabad,56,17-Mar-24,3:15 PM,44,44,203.1,5,No
+HS11879,Little Singham,Kids,English,Mobile,Super Plan,Surat,,16-03-2024,5:45 AM,29,92.7,258.3,,No
+HS11164,Zindagi Gulzar Hai,Drama,English,Smart TV,Free,Lucknow,33,15-04-2024,4:30 AM,27,77.6,197.2,,
+HS12283,Bigg Boss House,Reality Show,English,Smart TV,Free,Mumbai,18,30-03-2024,4:00 AM,42,73.3,376.7,,No
+HS11595,Ghar Ek Sapna,Drama,Marathi,Smart TV,Super Plan,Chennai,56,29-05-2024,22:00,27,42.7,211.3,3,No
+HS11567,Prime News Hour,News,Tamil,Mobile,Super Plan,Jaipur,34,20-Jan-24,2:30 PM,55,73.8,482,,Yes
+HS12118,Bigg Boss House,Reality Show,Kannada,Mobile,Mobile Plan,Indore,37,22-03-2024,11:45 PM,43,69.1,324.2,,
+HS12725,IPL: RR vs LSG,Cricket,Tamil,Laptop,Mobile Plan,Kolkata,58,25-06-2024,8:54,46,79.4,370.3,,No
+HS10473,Criminal Minds India,Thriller,Bengali,Laptop,Mobile Plan,Jaipur,61,28-Mar-24,1:15,20 min,62.4,236.2,1,No
+HS10992,Election Special,News,Tamil,Tablet,Mobile Plan,Indore,42,24-05-2024,6:15 PM,1,98.4,8,,Yes
+HS10756,The Laughter Club,Comedy,Marathi,Smart TV,Free,Surat,36,28-06-2024,15:30,-6,76.9,35.6,,Yes
+HS12604,Mahabharat Katha,Devotional,Kannada,Smart TV,Mobile Plan,Chennai,52,13-02-2024,17:27,53 min,19.5,279.2,2,Yes
+HS12690,Election Special,News,English,Mobile,Free,Delhi,48,22-03-2024,22:15,49,30.9,343.4,,
+HS10487,Baahubali Reprise,Regional Cinema,Tamil,Tablet,Mobile Plan,Indore,32,10/1/2024,5:30 AM,,10.2,126.2,,Yes
+HS11694,Mahabharat Katha,Devotional,Marathi,Smart TV,Super Plan,Pune,51,28-01-2024,3:46 PM,11,100,75.6,,
+HS10195,Ramayan Retelling,Devotional,Marathi,Smart TV,Super Plan,Hyderabad,62,27-Jan-24,22:45,6 min,82.8,353.6,3,No
+HS10787,Ghar Ek Sapna,Drama,Marathi,Smart TV,Free,Indore,56,9/1/2024,12:45 AM,47,100,304.6,5,No
+HS10321,Bigg Boss House,Reality Show,Kannada,Mobile,Free,Ahmedabad,61,21-05-2024,3:15,16,50.5,103.9,1,Yes
+HS10105,India's Got Talent,Reality Show,English,Mobile,Super Plan,Pune,29,25-03-2024,9:45 AM,22,59.9,126.8,3,No
+HS11190,Business Today,News,Tamil,Tablet,Super Plan,Lucknow,41,25-01-2024,12:15 AM,,86.3,122.2,,Yes
+HS12077,Ramayan Retelling,Devotional,Telugu,Smart TV,Mobile Plan,Indore,59,1/5/2024,11:00 AM,38,86.2,242.2,5,
+HS10932,Election Special,News,Hindi,Smart TV,Free,Pune,44,13-04-2024,7:15 PM,52,88.7,321.8,,Yes
+HS10652,Baahubali Reprise,Regional Cinema,Hindi,Laptop,Free,Surat,48,24-02-2024,10:30,77,61.1,565.5,,No
+HS11236,Comedy Circus Reloaded,Comedy,Hindi,,Mobile Plan,Hyderabad,61,22-01-2024,21:15,28,88.5,124.8,,Yes
+HS11537,Zindagi Gulzar Hai,Drama,Kannada,Mobile,Super Plan,Chennai,,24-06-2024,5:00 AM,55 min,65.5,41.8,1,Yes
+HS11855,Business Today,News,Marathi,Mobile,Free,Kolkata,18,13-01-2024,10:00 AM,28,42,145.6,,No
+HS10309,Ghar Ek Sapna,Drama,Bengali,Smart TV,Super Plan,Ahmedabad,30,23-Jan-24,7:15 PM,43,100,361.3,,No
+HS12990,Comedy Circus Reloaded,Comedy,Tamil,Laptop,Mobile Plan,Mumbai,32,22-Feb-24,11:00,28,66.2,115.2,1,Yes
+HS12829,Business Today,News,Hindi,Laptop,Mobile Plan,Surat,,10/3/2024,9:05 PM,29,75.8,123.5,,No
+HS12510,IPL: MI vs CSK,Cricket,Marathi,Smart TV,Mobile Plan,Hyderabad,45,30-Apr-24,5:45,68,62.2,409.1,4,No
+HS12635,Zindagi Gulzar Hai,Drama,Marathi,Laptop,Free,Surat,54,19-01-2024,6:30 PM,31 min,53.1,136.7,,Yes
+HS12773,The Laughter Club,Comedy,English,Mobile,Free,Surat,53,10/2/2024,17:45,56,46.1,232.2,,
+HS10177,Undercover,Thriller,Hindi,Tablet,Free,Hyderabad,18,16-03-2024,18:00,33,53,177.9,4,Yes
+HS10131,Election Special,News,Tamil,Mobile,Free,Bengaluru,29,25-05-2024,6:45,29,76.3,197.4,,Yes
+HS12900,Ghar Ek Sapna,Drama,Kannada,Mobile,Free,Ahmedabad,53,17-06-2024,3:15,40,56.1,313.9,3,Yes
+HS12996,Baahubali Reprise,Regional Cinema,Kannada,Mobile,Mobile Plan,Mumbai,60,24-01-2024,13:45,21,48,111.6,,No
+HS10537,India's Got Talent,Reality Show,Hindi,Mobile,Mobile Plan,Mumbai,52,1/2/2024,22:00,40,100,292.4,1,Yes
+HS10531,Undercover,Thriller,Marathi,Smart TV,Mobile Plan,Indore,20,16-02-2024,22:15,42 min,63,464.3,5,No
+HS11735,Undercover,Thriller,English,Laptop,Premium Plan,Mumbai,51,7/2/2024,3:30 PM,62 min,39.5,212.9,1,No
+HS11424,Prime News Hour,News,Kannada,,Super Plan,Hyderabad,,5/6/2024,16:00,50,12.9,242.9,3,
+HS11436,The Stakeout,Thriller,Kannada,Smart TV,Super Plan,Kolkata,32,11/4/2024,11:15 AM,66,76.9,561.1,1,No
+HS12969,Shiv Mahima,Devotional,Telugu,Smart TV,Super Plan,Ahmedabad,26,22-03-2024,20:45,49,61.4,199.9,3,No
+HS11673,Ghar Ek Sapna,Drama,Tamil,Mobile,Free,Bengaluru,63,13-05-2024,3:30 AM,58,100,403,,Yes
+HS11358,The Stakeout,Thriller,Telugu,Laptop,Super Plan,Hyderabad,47,4/5/2024,5:41,100,93.6,843.2,,Yes
+HS12950,Zindagi Gulzar Hai,Drama,Marathi,Tablet,Mobile Plan,Bengaluru,23,31-05-2024,20:45,38 min,100,61.7,1,
+HS11684,Mahabharat Katha,Devotional,Tamil,Mobile,Super Plan,Surat,17,9/5/2024,13:15,25,89.9,147.6,4,No
+HS11358,Ghar Ek Sapna,Drama,Telugu,Mobile,Free,Bengaluru,26,26-May-24,23:45,24,58.6,149.5,,No
+HS10128,Bigg Boss House,Reality Show,Telugu,Smart TV,Free,Hyderabad,,26-May-24,9:31 PM,33,88.4,134.2,1,No
+HS11578,Zindagi Gulzar Hai,Drama,Tamil,Smart TV,Mobile Plan,Mumbai,62,4/6/2024,14:00,25,87.8,189.6,,
+HS12554,Kantara,Regional Cinema,Hindi,Mobile,Premium Plan,Chennai,33,5/4/2024,9:00,36,58.3,272,,Yes
+HS10648,Ramayan Retelling,Devotional,Tamil,Mobile,Free,Pune,14,8/1/2024,16:15,57,41.5,251.8,,No
+HS11644,Mahabharat Katha,Devotional,Hindi,Mobile,Free,Pune,52,26-Mar-24,4:15 PM,44,67.7,393.9,,Yes
+HS10298,IPL: KKR vs SRH,Cricket,Hindi,Tablet,Mobile Plan,Jaipur,,5/6/2024,17:15,40 min,39.6,479.7,,Yes
+HS12776,Ramayan Retelling,Devotional,Bengali,Smart TV,Mobile Plan,Surat,35,20-06-2024,16:33,33,81.5,156.5,4,
+HS10227,Undercover,Thriller,English,Laptop,Free,Mumbai,,27-01-2024,7:47,21,50.4,124.2,,No
+HS12567,India's Got Talent,Reality Show,English,Mobile,Mobile Plan,Mumbai,33,19-04-2024,7:00,,42.9,70.4,,No
+HS10522,Motu Patlu,Kids,Marathi,Mobile,Super Plan,Indore,36,17-06-2024,4:24 AM,53 min,0,192.4,5,No
+HS10552,Zindagi Gulzar Hai,Drama,Hindi,Laptop,Free,Mumbai,29,21-02-2024,10:30 AM,93,62.8,505,2,Yes
+HS10119,Undercover,Thriller,Hindi,Mobile,Premium Plan,Indore,28,23-04-2024,13:30,-31,100,155,,No
+HS11667,Undercover,Thriller,Kannada,Laptop,Super Plan,Mumbai,49,11/5/2024,2:19,44,27.1,368.5,,No
+HS11356,Chhota Bheem,Kids,Tamil,Mobile,Super Plan,Delhi,48,24-May-24,10:00 AM,65,33.5,390.5,,No
+HS12324,IPL: RCB vs GT,Cricket,Bengali,Laptop,Premium Plan,Pune,28,5/6/2024,8:00 PM,1260,72.2,9048,2,Yes
+HS11211,Business Today,News,Telugu,Mobile,Super Plan,Bengaluru,29,2/4/2024,21:16,48,77.5,196.1,,Yes
+HS12014,Zindagi Gulzar Hai,Drama,Tamil,Tablet,Free,Jaipur,65,20-06-2024,5:45 AM,24,50.2,106.6,,Yes
+HS10094,Ramayan Retelling,Devotional,Bengali,,Free,Delhi,22,23-Jan-24,6:15,11,32.4,96.1,2,Yes
+HS10699,Business Today,News,Kannada,Mobile,Premium Plan,Chennai,41,11/2/2024,5:00,34,61.4,288.8,1,No
+HS10128,Shiv Mahima,Devotional,Hindi,Mobile,Super Plan,Indore,40,27-03-2024,18:00,23,66.8,184.9,1,
+HS12730,Baahubali Reprise,Regional Cinema,Bengali,Laptop,Free,Indore,19,26-04-2024,3:45,49,92.4,212.7,,Yes
+HS10076,Ramayan Retelling,Devotional,Hindi,Mobile,Mobile Plan,Bengaluru,62,31-05-2024,1:30 AM,35,31.3,179.1,,
+HS10660,Dil Ki Dastaan,Drama,Kannada,Mobile,Free,Chennai,,1/2/2024,11:15,49,22.4,427.7,,Yes
+HS10799,IPL: DC vs PBKS,Cricket,Kannada,Smart TV,Mobile Plan,Indore,58,13-Mar-24,23:28,39,65.1,242.7,1,No
+HS10378,Prime News Hour,News,Bengali,Smart TV,Free,Jaipur,18,14-05-2024,8:00,49,7.4,316.2,,
+HS10451,Mahabharat Katha,Devotional,Telugu,Laptop,Super Plan,Surat,32,22-05-2024,2:45,37,78.6,189.8,4,No
+HS12440,Ghar Ek Sapna,Drama,English,Laptop,Free,Kolkata,2,16-02-2024,2:30 AM,37,31.5,325.5,,Yes
+HS12873,Shiv Mahima,Devotional,Marathi,Smart TV,Premium Plan,Indore,21,10/6/2024,6:13 AM,45,31.8,293.4,2,Yes
+HS12503,Kantara,Regional Cinema,Tamil,Mobile,Super Plan,Delhi,33,7/6/2024,9:30 PM,57,100,261.3,,Yes
+HS11530,Zindagi Gulzar Hai,Drama,Bengali,Tablet,Free,Bengaluru,13,23-06-2024,7:00 PM,12,10.7,70.5,3,
+HS10008,Criminal Minds India,Thriller,Hindi,Smart TV,Free,Mumbai,,22-May-24,12:00 PM,62,16.8,456.4,4,Yes
+HS10977,Ghar Ek Sapna,Drama,Tamil,Smart TV,Premium Plan,Hyderabad,44,28-Jun-24,12:00,32,82.5,160.6,,Yes
+HS10525,Election Special,News,Kannada,Smart TV,Mobile Plan,Hyderabad,55,9/6/2024,12:45,47,53.6,340.3,,
+HS11320,Motu Patlu,Kids,Hindi,Smart TV,Premium Plan,Surat,46,27-05-2024,9:30 PM,40,89.1,215.6,,
+HS11463,IPL: RR vs LSG,Cricket,Marathi,Tablet,Free,Indore,42,22-01-2024,4:15 AM,33,62.7,225.9,5,Yes
+HS11689,Chhota Bheem,Kids,Marathi,Smart TV,Free,Ahmedabad,32,2/6/2024,12:00,67 min,65.9,173,,No
+HS12727,The Laughter Club,Comedy,Tamil,Laptop,Free,Hyderabad,62,31-01-2024,1:26 PM,30,73.9,122.3,4,Yes
+HS10579,Ghar Ek Sapna,Drama,Hindi,Mobile,Mobile Plan,Bengaluru,22,17-05-2024,9:30,8,100,56.7,,Yes
+HS11203,India's Got Talent,Reality Show,English,Mobile,Premium Plan,Bengaluru,42,9/5/2024,4:00,38,100,243.6,1,
+HS11754,Pushpa Rising,Regional Cinema,English,Smart TV,Mobile Plan,Kolkata,,24-01-2024,3:15 AM,29,46,192.7,4,
+HS12214,Little Singham,Kids,Telugu,Smart TV,Premium Plan,Surat,46,27-06-2024,6:45 PM,35,47.8,299.1,3,No
+HS10313,IPL: RCB vs GT,Cricket,Telugu,Smart TV,Free,Delhi,55,21-03-2024,7:15 PM,345,97.1,1811.6,1,
+HS11248,Mahabharat Katha,Devotional,Telugu,Mobile,Super Plan,Indore,,15-01-2024,0:45,7,51.8,40.4,,Yes
+HS11741,Ramayan Retelling,Devotional,Hindi,Laptop,Free,Kolkata,,21-02-2024,8:41,19,72.5,103,4,
+HS12124,The Laughter Club,Comedy,Kannada,,Free,Lucknow,29,29-01-2024,0:15,14,73.3,110.8,,Yes
+HS12295,The Stakeout,Thriller,Marathi,Laptop,Super Plan,Pune,55,22-May-24,20:15,49,82.8,347.2,2,No
+HS11155,IPL: RCB vs GT,Cricket,Telugu,Smart TV,Mobile Plan,Bengaluru,43,9/6/2024,22:45,22,80.2,130.3,,Yes
+HS11546,Kantara,Regional Cinema,Marathi,Smart TV,Premium Plan,Mumbai,13,4/2/2024,3:11,15,65.6,110.5,4,
+HS11969,The Stakeout,Thriller,English,Smart TV,Premium Plan,Surat,5,27-May-24,2:45 PM,29,35.4,164.9,3,No
+HS11507,Rishtey Anjaane,Drama,Telugu,Mobile,Free,Jaipur,26,15-02-2024,2:15,35,84.2,191.3,1,
+HS10380,Criminal Minds India,Thriller,Telugu,Laptop,Super Plan,Kolkata,36,30-Jun-24,15:15,54,55.3,463.7,,Yes
+HS10032,Zindagi Gulzar Hai,Drama,Telugu,Tablet,Super Plan,Ahmedabad,56,1/6/2024,1:45,31,77.5,133.4,,Yes
+HS12076,Baahubali Reprise,Regional Cinema,Bengali,Mobile,Premium Plan,Ahmedabad,16,11-Jan-24,18:15,43,70.4,365.3,,Yes
+HS11566,Election Special,News,Bengali,Tablet,Free,Chennai,,24-05-2024,12:15,48,62.7,430,,
+HS10441,Ghar Ek Sapna,Drama,Hindi,Smart TV,Mobile Plan,Jaipur,49,21-Jun-24,12:00,54,43.5,323.6,,No
+HS10147,Rishtey Anjaane,Drama,Marathi,Smart TV,Premium Plan,Pune,15,28-02-2024,13:00,19,100,110.1,3,No
+HS11748,Little Singham,Kids,Tamil,Mobile,Premium Plan,Surat,19,17-Jun-24,6:45 PM,26,92.7,209.8,3,Yes
+HS10076,Ramayan Retelling,Devotional,Hindi,Mobile,Mobile Plan,Bengaluru,62,31-05-2024,1:30 AM,35,31.3,179.1,,
+HS10631,Little Singham,Kids,English,Smart TV,Free,Surat,21,14-06-2024,4:45 AM,36,64.7,304.8,4,
+HS11330,The Stakeout,Thriller,Hindi,Mobile,Mobile Plan,Delhi,45,30-Mar-24,14:15,60,4.7,454.3,,Yes
+HS12135,Little Singham,Kids,Tamil,Mobile,Mobile Plan,Chennai,,14-Feb-24,8:30 PM,25,27.6,213.4,,
+HS11193,IPL: RCB vs GT,Cricket,Kannada,Mobile,Premium Plan,Ahmedabad,27,28-06-2024,11:45 AM,63,60.6,314.7,,Yes
+HS11968,IPL: KKR vs SRH,Cricket,Telugu,Smart TV,Free,Mumbai,38,23-06-2024,14:00,53,69,246.1,,
+HS12758,Zindagi Gulzar Hai,Drama,Bengali,Mobile,Free,Lucknow,60,30-01-2024,5:45,24,38.9,170.2,3,
+HS10625,Ramayan Retelling,Devotional,English,,Mobile Plan,Hyderabad,43,19-Mar-24,9:24 AM,27 min,77.2,100.4,,No
+HS11189,Motu Patlu,Kids,Marathi,Smart TV,Premium Plan,Ahmedabad,63,12/6/2024,11:15,21,14.6,142.2,,Yes
+HS11048,The Laughter Club,Comedy,Marathi,Smart TV,Free,Bengaluru,17,26-04-2024,1:30 AM,-34,51.7,146.3,,No
+HS10512,India's Got Talent,Reality Show,Tamil,Smart TV,Super Plan,Mumbai,16,21-01-2024,5:00,15,68,117.4,5,Yes
+HS10076,Rishtey Anjaane,Drama,Hindi,Laptop,Super Plan,Mumbai,,3-Mar-24,2:51 AM,46,72,225.5,,Yes
+HS11797,Bigg Boss House,Reality Show,Tamil,Laptop,Premium Plan,Mumbai,23,28-01-2024,21:15,17,99.4,149.6,1,
+HS12677,Dance Deewane,Reality Show,Kannada,Mobile,Mobile Plan,Indore,50,30-03-2024,2:00 PM,2,23.4,15.1,,No
+HS10040,Ramayan Retelling,Devotional,English,Mobile,Super Plan,Pune,44,28-05-2024,10:30,24,100,212.4,,No
+HS10276,Vikram,Regional Cinema,Marathi,Smart TV,Free,Kolkata,18,21-Mar-24,11:33,46,57.5,201.5,3,No
+HS10360,Chhota Bheem,Kids,Telugu,Mobile,Mobile Plan,Ahmedabad,27,19-02-2024,16:06,3,43.7,16.1,2,No
+HS10660,Hasi Ke Fatke,Comedy,Bengali,Mobile,Free,Indore,26,1-Feb-24,5:00 AM,435,0,3208.2,,No
+HS11570,IPL: MI vs CSK,Cricket,Bengali,Smart TV,Super Plan,Pune,57,4/1/2024,4:00 PM,21,50.9,94.8,,
+HS12742,Motu Patlu,Kids,Kannada,Mobile,Free,Bengaluru,57,19-04-2024,9:15,71,90.3,409.9,4,
+HS10628,The Stakeout,Thriller,Tamil,Tablet,Super Plan,Indore,14,26-05-2024,16:45,34,81.4,224,,
+HS10804,Dance Deewane,Reality Show,Telugu,,Premium Plan,Bengaluru,29,20-01-2024,5:47,27 min,36.2,105,,Yes
+HS11908,Kantara,Regional Cinema,English,Tablet,Mobile Plan,Jaipur,39,29-05-2024,18:45,8,93,64,5,No
+HS11526,IPL: RCB vs GT,Cricket,Bengali,Smart TV,Super Plan,Mumbai,38,26-Jan-24,16:00,43,46.4,332.6,,Yes
+HS12412,Kantara,Regional Cinema,Telugu,Laptop,Super Plan,Pune,62,26-02-2024,5:04 AM,43,83.5,378,,No
+HS10307,Comedy Circus Reloaded,Comedy,Kannada,Mobile,Mobile Plan,Mumbai,57,9-Apr-24,19:15,,29,468.3,5,No
+HS11854,The Laughter Club,Comedy,Tamil,Mobile,Mobile Plan,Mumbai,38,27-05-2024,9:01 AM,26,69.6,109.1,5,Yes
+HS11369,Election Special,News,Telugu,Mobile,Premium Plan,Bengaluru,49,28-02-2024,20:45,41,77.1,307,,No
+HS10739,Shiv Mahima,Devotional,Tamil,Mobile,Free,Mumbai,41,18-06-2024,9:28 AM,,89.3,31.7,3,
+HS10255,Election Special,News,Telugu,Smart TV,Free,Indore,32,6-Jan-24,8:15,12 min,42,55.1,,No
+HS12119,Ghar Ek Sapna,Drama,Tamil,Laptop,Mobile Plan,Surat,16,12-Feb-24,1:00 AM,62,70.3,549.5,5,No
+HS11676,Ramayan Retelling,Devotional,Marathi,Mobile,Free,Pune,16,13-03-2024,7:00,9,83.5,39.9,,
+HS11440,The Laughter Club,Comedy,English,Tablet,Mobile Plan,Pune,13,14-Feb-24,1:00,31,73.7,249,2,Yes
+HS12046,Shiv Mahima,Devotional,Hindi,Mobile,Free,Jaipur,56,27-03-2024,12:15 PM,5,100,34.5,,Yes
+HS12003,Shiv Mahima,Devotional,Kannada,Smart TV,Super Plan,Bengaluru,21,24-Mar-24,16:45,51,18.2,207.5,,No
+HS11802,Kantara,Regional Cinema,Hindi,Smart TV,Super Plan,Ahmedabad,63,28-05-2024,23:30,39,68.1,174.9,,Yes
+HS10087,Pushpa Rising,Regional Cinema,Marathi,Smart TV,Free,Jaipur,24,11-Jan-24,22:28,32,50.4,245.2,,Yes
+HS10535,Bigg Boss House,Reality Show,Bengali,Tablet,Super Plan,Bengaluru,31,22-Mar-24,8:00 PM,56,53.8,238.9,,Yes
+HS10340,IPL: MI vs CSK,Cricket,Marathi,Tablet,Free,Lucknow,48,6/5/2024,18:30,58,77.8,407.9,4,No
+HS11176,Election Special,News,Marathi,Mobile,Premium Plan,Mumbai,24,23-01-2024,5:00 PM,,44,280.5,4,No
+HS10352,Motu Patlu,Kids,Marathi,Smart TV,Mobile Plan,Kolkata,37,21-01-2024,7:45 AM,39,55.6,332.3,,Yes
+HS12767,Comedy Circus Reloaded,Comedy,Marathi,Laptop,Super Plan,Jaipur,20,2-Jan-24,19:15,72 min,43.4,352.4,,No
+HS11865,Comedy Circus Reloaded,Comedy,English,Mobile,Mobile Plan,Delhi,50,18-06-2024,12:00 AM,46,80.4,227.4,,No
+HS11935,Dil Ki Dastaan,Drama,Bengali,Mobile,Premium Plan,Chennai,35,16-05-2024,3:29 PM,1,92.7,4.2,,
+HS12770,Dance Deewane,Reality Show,Bengali,Laptop,Super Plan,Pune,25,24-04-2024,5:30 PM,23,26.1,205.2,5,No
+HS11248,Mahabharat Katha,Devotional,Telugu,Mobile,Super Plan,Indore,,15-01-2024,0:45,7,51.8,40.4,,Yes
+HS10121,The Laughter Club,Comedy,Bengali,Smart TV,Super Plan,Kolkata,28,24-May-24,1:00 PM,44,38.8,259.3,2,Yes
+HS12192,Election Special,News,Marathi,Laptop,Mobile Plan,Hyderabad,54,10/6/2024,11:30,31,94.8,130.1,,No
+HS11145,Comedy Circus Reloaded,Comedy,Hindi,Mobile,Super Plan,Jaipur,51,29-05-2024,11:45 PM,58,0,360.2,,Yes
+HS11961,Baahubali Reprise,Regional Cinema,Marathi,Mobile,Mobile Plan,Jaipur,50,23-04-2024,2:20,270,43,2422.7,4,
+HS10604,IPL: KKR vs SRH,Cricket,Kannada,Smart TV,Premium Plan,Pune,50,18-05-2024,5:00,22,100,117.2,,No
+HS10691,Dil Ki Dastaan,Drama,English,Laptop,Free,Lucknow,50,13-04-2024,7:45 AM,46,78.3,365.6,,No
+HS10908,Dance Deewane,Reality Show,Hindi,Smart TV,Super Plan,Hyderabad,50,21-05-2024,3:45,840,62.9,6766.5,,Yes
+HS10733,IPL: RCB vs GT,Cricket,Telugu,Laptop,Mobile Plan,Chennai,,2/1/2024,10:30 AM,26,0,139.7,,No
+HS10629,IPL: DC vs PBKS,Cricket,Marathi,Laptop,Free,Kolkata,29,19-01-2024,5:30 AM,50,82.7,357.6,,No
+HS12330,India's Got Talent,Reality Show,Hindi,Smart TV,Free,Indore,15,3/5/2024,3:52 PM,-20,68.6,87.8,4,Yes
+HS12584,Vikram,Regional Cinema,Tamil,Smart TV,Super Plan,Jaipur,37,25-06-2024,21:00,68,86.3,443.2,2,Yes
+HS10435,Zindagi Gulzar Hai,Drama,Bengali,Mobile,Free,Pune,21,21-Feb-24,10:45,64,7.4,500.6,2,
+HS12706,IPL: DC vs PBKS,Cricket,English,Mobile,Free,Surat,59,10/4/2024,8:30 PM,32,0,279.9,,
+HS10684,Bigg Boss House,Reality Show,English,Mobile,Mobile Plan,Delhi,64,23-Jun-24,6:15 AM,49,89.1,332.3,,
+HS10350,Criminal Minds India,Thriller,Kannada,Mobile,Super Plan,Indore,47,2-Feb-24,5:30 PM,18,69.4,107.9,3,Yes
+HS11445,India's Got Talent,Reality Show,Telugu,Smart TV,Super Plan,Ahmedabad,37,22-01-2024,2:33 AM,56,52.8,332.3,,Yes
+HS10582,Ghar Ek Sapna,Drama,English,Laptop,Mobile Plan,Jaipur,45,25-05-2024,2:45 PM,27,75.4,118.9,,Yes
+HS12884,Comedy Circus Reloaded,Comedy,English,Smart TV,Mobile Plan,Jaipur,62,17-05-2024,10:14 AM,31,67.8,172.7,5,Yes
+HS10263,Criminal Minds India,Thriller,Hindi,Mobile,Free,Kolkata,33,14-04-2024,19:52,26 min,12.4,78.5,3,No
+HS12463,Vikram,Regional Cinema,Kannada,Smart TV,Mobile Plan,Lucknow,26,2/3/2024,15:15,44,32.2,229.9,,
+HS12560,Little Singham,Kids,Bengali,Mobile,Mobile Plan,Mumbai,49,13-02-2024,5:42 AM,41,71.6,180.7,1,
+HS10611,The Stakeout,Thriller,English,Smart TV,Super Plan,Ahmedabad,61,12/1/2024,20:30,57,59.1,439,,
+HS10098,Election Special,News,English,Mobile,Mobile Plan,Delhi,61,28-03-2024,10:15 AM,27,71.3,124.9,5,Yes
+HS10889,Ghar Ek Sapna,Drama,English,Mobile,Mobile Plan,Lucknow,51,8/4/2024,13:15,76,92,600,3,Yes
+HS11422,Shiv Mahima,Devotional,Marathi,Laptop,Free,Ahmedabad,53,14-06-2024,12:45 AM,-57,83.9,278.2,4,
+HS12179,Dance Deewane,Reality Show,Tamil,Smart TV,Mobile Plan,Ahmedabad,43,20-Mar-24,3:15,35,68.5,151.5,,No
+HS11705,Vikram,Regional Cinema,Tamil,Tablet,Free,Jaipur,16,17-May-24,7:15,31,50.5,188.6,,
+HS12276,Undercover,Thriller,Bengali,Mobile,Free,Jaipur,44,7/4/2024,5:00 PM,50,14.4,206.7,2,Yes
+HS11819,Criminal Minds India,Thriller,Kannada,Tablet,Mobile Plan,Delhi,13,31-Jan-24,23:00,71,18.6,510.3,5,
+HS11799,Undercover,Thriller,Tamil,Tablet,Premium Plan,Lucknow,49,19-Apr-24,1:45 AM,17,44.6,122.5,,Yes
+HS11940,Hasi Ke Fatke,Comedy,Hindi,Mobile,Super Plan,Indore,32,31-May-24,4:45,-72,46.2,523,2,No
+HS10693,Dance Deewane,Reality Show,Bengali,Mobile,Free,Chennai,39,13-Apr-24,4:46 PM,27 min,47.7,78.3,2,Yes
+HS11179,IPL: MI vs CSK,Cricket,English,Mobile,Premium Plan,Ahmedabad,34,8-Jun-24,23:15,53,39,215.4,,No
+HS11413,The Stakeout,Thriller,Bengali,Mobile,Mobile Plan,Pune,23,5-Feb-24,5:00 AM,72,86.4,526,1,No
+HS10188,Kantara,Regional Cinema,Telugu,Laptop,Super Plan,Indore,32,20-03-2024,2:45,29,66.1,169.4,4,No
+HS10085,Comedy Circus Reloaded,Comedy,Hindi,Smart TV,Super Plan,Lucknow,2,3/1/2024,15:00,54,43.2,441.5,3,
+HS12153,Baahubali Reprise,Regional Cinema,Kannada,Smart TV,Mobile Plan,Lucknow,26,27-02-2024,6:30,18,37,146.2,,No
+HS12524,Dil Ki Dastaan,Drama,English,Smart TV,Mobile Plan,Mumbai,54,3/3/2024,1:30,34,60.8,259.3,,No
+HS12858,Hasi Ke Fatke,Comedy,Telugu,Mobile,Free,Surat,33,11/4/2024,17:39,48 min,97.4,276.1,1,Yes
+HS12375,Prime News Hour,News,Hindi,Smart TV,Mobile Plan,Jaipur,25,5-Apr-24,13:15,555,100,4567.8,5,
+HS11980,Prime News Hour,News,English,Tablet,Free,Mumbai,42,8/3/2024,7:15 AM,23,17.3,166.6,,Yes
+HS11110,The Laughter Club,Comedy,Kannada,Laptop,Mobile Plan,Surat,,13-02-2024,9:30 AM,8 min,52.2,237.2,,No
+HS12744,Election Special,News,Hindi,Laptop,Free,Bengaluru,39,26-06-2024,11:00 AM,29 min,100,321.2,4,No
+HS10739,The Laughter Club,Comedy,Bengali,Laptop,Mobile Plan,Ahmedabad,28,18-06-2024,6:00 PM,,74.8,311.7,3,Yes
+HS11029,The Stakeout,Thriller,English,Laptop,Premium Plan,Mumbai,17,4/2/2024,16:45,47,95.7,232.1,,Yes
+HS10149,The Stakeout,Thriller,Marathi,Mobile,Free,Jaipur,19,20-03-2024,9:54 PM,33,78.8,135.7,3,Yes
+HS11989,The Stakeout,Thriller,Tamil,,Super Plan,Mumbai,32,30-01-2024,1:30 PM,54,23.1,481.8,,Yes
+HS12452,Mahabharat Katha,Devotional,Hindi,Mobile,Free,Mumbai,24,16-03-2024,17:45,49,91,386.1,3,No
+HS12081,Criminal Minds India,Thriller,Marathi,Mobile,Super Plan,Jaipur,44,18-06-2024,5:45 AM,24,39.9,134.6,,Yes
+HS11993,Hasi Ke Fatke,Comedy,Tamil,Smart TV,Premium Plan,Bengaluru,46,28-05-2024,23:00,26,88.4,170,,No
+HS12855,Little Singham,Kids,English,Smart TV,Mobile Plan,Kolkata,26,7/4/2024,19:30,11,33.6,80,5,No
+HS10918,IPL: RCB vs GT,Cricket,Telugu,Tablet,Free,Bengaluru,44,16-06-2024,7:45 AM,55,74.9,248,2,Yes
+HS12660,Prime News Hour,News,Kannada,Tablet,Mobile Plan,Hyderabad,39,5/2/2024,6:00,5,68.4,38.9,2,Yes
+HS11666,Dil Ki Dastaan,Drama,Marathi,Mobile,Mobile Plan,Kolkata,27,26-03-2024,4:15,-37,95.2,180.5,1,Yes
+HS10041,Baahubali Reprise,Regional Cinema,Telugu,Laptop,Super Plan,Bengaluru,41,18-Feb-24,8:00 AM,45,27.1,195.9,2,Yes
+HS11507,Rishtey Anjaane,Drama,Telugu,Mobile,Free,Jaipur,26,15-02-2024,2:15,35,84.2,191.3,1,
+HS11237,Kantara,Regional Cinema,English,Mobile,Premium Plan,Indore,55,18-Mar-24,3:15 AM,675,59.8,4114.6,5,No
+HS10498,Hasi Ke Fatke,Comedy,Hindi,Tablet,Super Plan,Jaipur,29,1/4/2024,1:15 PM,34,34.5,213.7,,Yes
+HS11566,IPL: DC vs PBKS,Cricket,Marathi,Tablet,Premium Plan,Ahmedabad,36,19-05-2024,2:14 PM,24,58.1,135.9,3,Yes
+HS10563,Hasi Ke Fatke,Comedy,Tamil,Mobile,Mobile Plan,Lucknow,57,18-05-2024,21:21,53,31.4,403.1,2,Yes
+HS10623,IPL: RR vs LSG,Cricket,Hindi,Smart TV,Premium Plan,Hyderabad,44,13-03-2024,4:45 AM,3,29,16.7,,No
+HS12360,Prime News Hour,News,Hindi,Mobile,Mobile Plan,Chennai,61,4/4/2024,18:00,33,100,144.9,,
+HS11533,IPL: RCB vs GT,Cricket,Tamil,Mobile,Super Plan,Hyderabad,31,6/4/2024,20:36,59,63.3,283.8,,
+HS10487,Election Special,News,Bengali,Mobile,Super Plan,Kolkata,60,12/1/2024,11:30 PM,49,78,312.9,,No
+HS12349,Vikram,Regional Cinema,Bengali,Smart TV,Premium Plan,Pune,26,28-05-2024,18:30,10,75,65.2,3,Yes
+HS11066,Criminal Minds India,Thriller,Bengali,Laptop,Super Plan,Surat,18,5/5/2024,3:00,47,57.8,344.9,3,Yes
+HS10822,The Laughter Club,Comedy,Hindi,Tablet,Mobile Plan,Kolkata,28,29-01-2024,1:45,45,63.6,346.1,4,No
+HS10279,The Stakeout,Thriller,Telugu,Mobile,Super Plan,Delhi,38,27-05-2024,4:30 AM,23,61,190,,No
+HS11736,Shiv Mahima,Devotional,Kannada,Smart TV,Free,Kolkata,42,2/1/2024,22:30,39,37.4,210.9,,Yes
+HS10920,Shiv Mahima,Devotional,English,Tablet,Mobile Plan,Mumbai,65,6/5/2024,6:30 PM,49,38.7,329.9,4,No
+HS10321,Undercover,Thriller,Hindi,Mobile,Premium Plan,Ahmedabad,30,3/5/2024,7:45 PM,24,44,187.7,,
+HS11309,Business Today,News,Kannada,Smart TV,Mobile Plan,Hyderabad,31,3/6/2024,3:00 AM,33,9.9,207.2,,
+HS10990,Comedy Circus Reloaded,Comedy,Bengali,Smart TV,Free,Surat,56,3/6/2024,5:45 AM,51 min,96.7,274.5,,
+HS12681,The Stakeout,Thriller,Tamil,Mobile,Super Plan,Delhi,41,26-04-2024,5:49 PM,4,58.3,29.2,,Yes
+HS10008,Kantara,Regional Cinema,Kannada,Laptop,Mobile Plan,Hyderabad,59,14-04-2024,3:43,2,89,17.2,,
+HS11441,Pushpa Rising,Regional Cinema,Telugu,Smart TV,Free,Delhi,49,14-01-2024,20:15,70,44.3,367.4,,No
+HS11355,Ghar Ek Sapna,Drama,Bengali,Tablet,Mobile Plan,Kolkata,31,18-01-2024,20:15,57 min,15.5,273,3,Yes
+HS10128,Bigg Boss House,Reality Show,Telugu,Smart TV,Free,Hyderabad,,26-May-24,9:31 PM,33,88.4,134.2,1,No
+HS10303,Motu Patlu,Kids,Telugu,Tablet,Free,Bengaluru,38,16-01-2024,8:45,48,28.4,226.5,1,No
+HS12888,Prime News Hour,News,Telugu,Smart TV,Free,Mumbai,19,3/4/2024,8:15 PM,60,78.3,363.3,,
+HS10683,The Laughter Club,Comedy,Telugu,Mobile,Free,Surat,39,10-Feb-24,11:30 AM,38,100,289.9,,
+HS10749,The Stakeout,Thriller,Kannada,Tablet,Mobile Plan,Pune,39,11-Mar-24,16:15,15,69.6,65.8,1,No
+HS11448,Kantara,Regional Cinema,Tamil,Smart TV,Free,Surat,,18-02-2024,1:45,33,97,211.1,,Yes
+HS10894,Bigg Boss House,Reality Show,Bengali,Laptop,Free,Pune,33,10-Feb-24,5:30 PM,22,86.4,143.3,3,
+HS10656,Undercover,Thriller,Tamil,Smart TV,Mobile Plan,Kolkata,58,9/1/2024,2:45,29,100,235.5,1,Yes
+HS10015,India's Got Talent,Reality Show,English,Tablet,Super Plan,Mumbai,65,2-Mar-24,11:30 PM,34,25.6,148.5,,Yes
+HS11575,Little Singham,Kids,Marathi,Mobile,Premium Plan,Chennai,38,24-06-2024,5:15 PM,84,49.1,729.3,,No
+HS11019,The Laughter Club,Comedy,Hindi,Smart TV,Mobile Plan,Lucknow,36,5-Feb-24,1:03 AM,71,71.8,339.9,,No
+HS10382,Bigg Boss House,Reality Show,Telugu,Tablet,Mobile Plan,Chennai,42,12/4/2024,5:00 AM,40,44.5,351.5,,
+HS11970,Dil Ki Dastaan,Drama,Telugu,Tablet,Free,Kolkata,14,22-Apr-24,4:45 PM,74,79.2,326.8,,Yes
+HS11367,Business Today,News,Kannada,Smart TV,Free,Mumbai,33,12/6/2024,10:30 PM,18,56.2,102,,No
+HS10410,IPL: DC vs PBKS,Cricket,Kannada,,Mobile Plan,Ahmedabad,36,5/2/2024,19:07,32,72.7,210.4,4,No
+HS10420,IPL: RCB vs GT,Cricket,Hindi,Mobile,Free,Mumbai,47,23-Mar-24,7:00,66,57.7,349.7,1,Yes
+HS11469,Undercover,Thriller,Kannada,Mobile,Free,Chennai,29,15-01-2024,8:57 AM,17,33.3,110.1,,No
+HS12346,Comedy Circus Reloaded,Comedy,Tamil,Mobile,Free,Chennai,21,18-05-2024,6:15 AM,29,43.4,247.9,5,No
+HS11355,IPL: RCB vs GT,Cricket,Kannada,Laptop,Premium Plan,Lucknow,47,5-Mar-24,10:00 PM,780,100,5139.3,,
+HS12151,Criminal Minds India,Thriller,Telugu,Tablet,Free,Delhi,63,17-01-2024,7:15,17,1,110.4,3,
+HS12293,Vikram,Regional Cinema,English,Smart TV,Premium Plan,Hyderabad,60,15-Feb-24,12:30 AM,94,95.8,746.1,,Yes
+HS10058,Rishtey Anjaane,Drama,Bengali,Smart TV,Free,Delhi,34,24-04-2024,5:15,31,48.9,268.8,5,No
+HS12531,Hasi Ke Fatke,Comedy,Marathi,Tablet,Free,Surat,,4/3/2024,14:15,94,11.7,806.2,,No
+HS10216,Business Today,News,Hindi,Mobile,Super Plan,Bengaluru,24,15-May-24,23:15,61,50.9,527.3,,Yes
+HS11232,Criminal Minds India,Thriller,Telugu,Tablet,Free,Hyderabad,50,12/2/2024,11:45 PM,21,64.9,143.8,,No
+HS12787,Zindagi Gulzar Hai,Drama,Tamil,Mobile,Premium Plan,Chennai,53,28-01-2024,4:00,7,62.2,39.5,1,Yes
+HS11566,IPL: DC vs PBKS,Cricket,Marathi,Mobile,Premium Plan,Ahmedabad,36,19-05-2024,2:14 PM,24,58.1,135.9,3,Yes
+HS12696,Pushpa Rising,Regional Cinema,Hindi,Mobile,Premium Plan,Chennai,52,13-Jan-24,9:15 AM,40,47,285.6,2,Yes
+HS10657,Business Today,News,Telugu,Smart TV,Mobile Plan,Delhi,16,12-Jan-24,22:45,46,40.5,262.8,,
+HS11135,The Laughter Club,Comedy,Kannada,Smart TV,Free,Ahmedabad,37,23-03-2024,21:45,69,46.8,550.1,,Yes
+HS12861,Chhota Bheem,Kids,Telugu,Smart TV,Free,Jaipur,24,14-06-2024,9:15,44,37.4,263.2,,No
+HS11516,Prime News Hour,News,Tamil,Laptop,Mobile Plan,Pune,46,1-Feb-24,20:45,1,100,4.9,,No
+HS12062,Rishtey Anjaane,Drama,Hindi,Mobile,Super Plan,Hyderabad,58,2/5/2024,9:15 AM,62 min,23.2,407.8,2,No
+HS10787,Dance Deewane,Reality Show,Bengali,Laptop,Free,Indore,63,17-03-2024,22:45,43,65.3,198.2,,
+HS11466,Hasi Ke Fatke,Comedy,Marathi,Smart TV,Free,Surat,22,17-05-2024,11:45 PM,34,76.6,303.4,,Yes
+HS12767,India's Got Talent,Reality Show,Telugu,Smart TV,Free,Chennai,56,22-01-2024,16:42,15,64,74.9,,Yes
+HS10082,Mahabharat Katha,Devotional,Bengali,Tablet,Super Plan,Indore,30,11/1/2024,9:00,44,36.2,348.5,,No
+HS12102,Comedy Circus Reloaded,Comedy,Hindi,Smart TV,Super Plan,Hyderabad,36,30-03-2024,1:45 PM,46,88.2,398.1,,Yes
+HS12117,Comedy Circus Reloaded,Comedy,English,Tablet,Mobile Plan,Bengaluru,13,5-Apr-24,21:00,-35,100,198.6,,Yes
+HS10696,Pushpa Rising,Regional Cinema,Telugu,Mobile,Super Plan,Pune,46,26-05-2024,8:31 PM,-29,46.9,224.9,,No
+HS10400,Criminal Minds India,Thriller,Marathi,Smart TV,Free,Delhi,63,7/5/2024,5:30,29,86.6,147,5,Yes
+HS10345,Ramayan Retelling,Devotional,English,Mobile,Free,Pune,39,22-Apr-24,16:33,24,67,190.7,1,Yes
+HS11575,Little Singham,Kids,Marathi,Laptop,Premium Plan,Chennai,38,24-06-2024,5:15 PM,84,49.1,729.3,,No
+HS10746,Kantara,Regional Cinema,Hindi,Tablet,Premium Plan,Bengaluru,34,17-03-2024,6:45 PM,45,48.7,197.6,,
+HS10769,Rishtey Anjaane,Drama,English,Mobile,Super Plan,Delhi,35,5/6/2024,19:36,66,90.3,308.2,4,
+HS11185,IPL: MI vs CSK,Cricket,Tamil,Mobile,Super Plan,Ahmedabad,45,26-03-2024,2:41 PM,52,11.6,418.3,,Yes
+HS12919,Prime News Hour,News,Telugu,Mobile,Free,Surat,49,8-Feb-24,8:00 PM,81,26.1,493.3,,Yes
+HS12860,India's Got Talent,Reality Show,English,Smart TV,Free,Hyderabad,50,2/3/2024,5:30 AM,30,47.6,230.5,,Yes
+HS12092,Baahubali Reprise,Regional Cinema,Bengali,Smart TV,Mobile Plan,Bengaluru,48,18-04-2024,3:40 PM,45,77.4,211.6,,Yes
+HS10987,India's Got Talent,Reality Show,Bengali,Laptop,Super Plan,Surat,32,9-Mar-24,2:45,38,32,276.2,1,Yes
+HS11921,Dil Ki Dastaan,Drama,Hindi,Mobile,Free,Mumbai,35,3/1/2024,3:58,51,89.2,419.7,,Yes
+HS11284,IPL: RR vs LSG,Cricket,Hindi,Mobile,Premium Plan,Jaipur,45,8/4/2024,11:00 AM,42,48.6,245.9,5,Yes
+HS11088,The Stakeout,Thriller,Kannada,Laptop,Super Plan,Kolkata,55,27-03-2024,9:30 PM,25,45.5,107.2,,Yes
+HS11927,IPL: RCB vs GT,Cricket,Telugu,Mobile,Mobile Plan,Delhi,17,2/6/2024,5:00,62,41.7,552.8,4,
+HS11124,IPL: MI vs CSK,Cricket,Marathi,Smart TV,Mobile Plan,Surat,3,11/5/2024,12:09 AM,17,74.5,100.5,,
+HS10011,IPL: MI vs CSK,Cricket,Hindi,Mobile,Super Plan,Chennai,31,8/2/2024,4:00 PM,18,51.9,81,,No
+HS11236,Comedy Circus Reloaded,Comedy,Hindi,,Mobile Plan,Hyderabad,61,22-01-2024,21:15,28,88.5,124.8,,Yes
+HS10910,Hasi Ke Fatke,Comedy,Kannada,Tablet,Mobile Plan,Surat,25,10/6/2024,6:30 PM,38 min,29.9,25.4,,No
+HS11973,Little Singham,Kids,Kannada,Laptop,Super Plan,Jaipur,64,29-04-2024,4:15 AM,48,52.2,381.8,,Yes
+HS12923,Comedy Circus Reloaded,Comedy,Bengali,Smart TV,Super Plan,Surat,21,22-01-2024,2:00 PM,31,24.8,205.1,2,Yes
+HS11757,Dance Deewane,Reality Show,Kannada,Tablet,Mobile Plan,Lucknow,31,27-06-2024,13:30,66,20.7,349.1,4,Yes
+HS12065,IPL: DC vs PBKS,Cricket,Bengali,,Mobile Plan,Hyderabad,39,27-06-2024,14:15,5,76.6,27.4,,Yes
+HS10863,Kantara,Regional Cinema,Telugu,Smart TV,Mobile Plan,Ahmedabad,,13-06-2024,15:45,20 min,64.6,315.2,,No
+HS10012,India's Got Talent,Reality Show,Hindi,Mobile,Mobile Plan,Bengaluru,24,28-06-2024,5:00 PM,81,79,475.7,4,No
+HS10684,Ghar Ek Sapna,Drama,Tamil,Laptop,Mobile Plan,Bengaluru,25,13-05-2024,13:15,43,100,176.1,4,No
+HS11123,IPL: RCB vs GT,Cricket,English,Smart TV,Super Plan,Hyderabad,25,16-03-2024,12:45 AM,42,21.1,347.8,4,Yes
+HS12050,Election Special,News,Telugu,Tablet,Premium Plan,Kolkata,20,5-Apr-24,15:19,44,36,218.7,2,No
+HS12977,Motu Patlu,Kids,Marathi,Tablet,Mobile Plan,Chennai,2,26-05-2024,21:18,63,0,446,,Yes
+HS12794,IPL: DC vs PBKS,Cricket,English,Smart TV,Free,Pune,37,3/1/2024,8:30 AM,1,33,5.1,,Yes
+HS11545,Business Today,News,Hindi,Smart TV,Free,Kolkata,31,23-04-2024,9:45,69,58,489,,No
+HS10344,Chhota Bheem,Kids,Bengali,Laptop,Free,Ahmedabad,64,11-Jan-24,16:30,57,49.7,337,,No
+HS12382,Vikram,Regional Cinema,Telugu,,Super Plan,Hyderabad,24,21-04-2024,4:45,,55.8,87,2,Yes
+HS10799,IPL: DC vs PBKS,Cricket,Kannada,Mobile,Mobile Plan,Indore,58,13-Mar-24,23:28,39,65.1,242.7,1,No
+HS10817,Pushpa Rising,Regional Cinema,Hindi,Laptop,Free,Bengaluru,43,3-Jun-24,6:45,7,50.9,47.9,3,
+HS11105,Ghar Ek Sapna,Drama,Hindi,Mobile,Super Plan,Kolkata,63,16-04-2024,12:47 AM,735,21.5,5165.9,,Yes
+HS10559,Zindagi Gulzar Hai,Drama,Telugu,Mobile,Free,Lucknow,23,28-03-2024,9:15 AM,26,47.5,115.2,2,
+HS10168,Mahabharat Katha,Devotional,Kannada,Smart TV,Super Plan,Mumbai,54,12/1/2024,4:30 AM,18,33.2,85.8,,Yes
+HS10827,Criminal Minds India,Thriller,Tamil,Laptop,Super Plan,Jaipur,59,11/2/2024,2:45 AM,-42,100,247.5,2,No
+HS10299,The Laughter Club,Comedy,Bengali,Laptop,Mobile Plan,Hyderabad,13,26-Jun-24,0:25,49,7.2,232.9,,No
+HS11211,Comedy Circus Reloaded,Comedy,Tamil,Tablet,Mobile Plan,Hyderabad,14,22-01-2024,12:52,42,88,278.4,3,No
+HS10390,Mahabharat Katha,Devotional,Hindi,Laptop,Premium Plan,Jaipur,,30-04-2024,7:42 PM,69,30,613.2,3,Yes
+HS11249,Motu Patlu,Kids,English,Smart TV,Mobile Plan,Kolkata,34,1/2/2024,2:00,25,74.4,190,,
+HS11566,IPL: DC vs PBKS,Cricket,Marathi,Tablet,Premium Plan,Ahmedabad,36,19-05-2024,2:14 PM,24,58.1,135.9,3,Yes
+HS10107,Comedy Circus Reloaded,Comedy,Kannada,Mobile,Super Plan,Lucknow,25,2/6/2024,10:10 AM,50,85.6,400.3,1,
+HS12951,Shiv Mahima,Devotional,Tamil,Smart TV,Free,Bengaluru,30,9/3/2024,5:00 AM,40,0.1,318.1,,No
+HS10559,Zindagi Gulzar Hai,Drama,Telugu,Tablet,Free,Lucknow,23,28-03-2024,9:15 AM,26,47.5,115.2,2,
+HS10278,Dance Deewane,Reality Show,Hindi,Mobile,Free,Hyderabad,29,1/6/2024,7:45 PM,44,40.9,228.5,3,No
+HS10909,Hasi Ke Fatke,Comedy,Bengali,,Mobile Plan,Indore,20,18-05-2024,4:45 PM,49,66.2,273.3,,Yes
+HS10681,Motu Patlu,Kids,Bengali,Tablet,Mobile Plan,Ahmedabad,43,24-05-2024,11:30 PM,85,90.4,692.9,,
+HS12135,Dance Deewane,Reality Show,Tamil,Laptop,Free,Surat,54,31-05-2024,8:45 PM,48 min,86,216.3,,
+HS11059,Shiv Mahima,Devotional,Bengali,Smart TV,Premium Plan,Indore,63,26-06-2024,12:37,,34.3,36.1,1,No
+HS12958,IPL: DC vs PBKS,Cricket,Kannada,Smart TV,Super Plan,Hyderabad,37,12/6/2024,1:15,58,50.3,508.2,,
+HS11405,India's Got Talent,Reality Show,Bengali,Smart TV,Super Plan,Ahmedabad,19,20-06-2024,4:15 PM,68,69.4,359.9,,
+HS10886,The Stakeout,Thriller,Tamil,Mobile,Super Plan,Mumbai,49,4/3/2024,10:27,12,63,50.7,,No
+HS12054,Ramayan Retelling,Devotional,Bengali,Smart TV,Mobile Plan,Surat,58,28-Mar-24,4:30,52,79.1,262.3,,
+HS11448,India's Got Talent,Reality Show,Tamil,Smart TV,Premium Plan,Hyderabad,27,23-06-2024,15:15,43,68.2,248.5,5,Yes
+HS11651,Little Singham,Kids,Bengali,Smart TV,Super Plan,Lucknow,145,20-01-2024,3:15,17,53.7,96.1,4,
+HS12805,Business Today,News,Kannada,Smart TV,Super Plan,Pune,60,3/2/2024,11:45 PM,21,63.1,149.3,2,Yes
+HS10121,Dance Deewane,Reality Show,Telugu,Smart TV,Super Plan,Hyderabad,,3/1/2024,8:00 AM,73,65.9,294.7,,
+HS11299,Pushpa Rising,Regional Cinema,Hindi,Mobile,Premium Plan,Surat,39,18-05-2024,9:15,-33,60.1,233.4,,Yes
+HS11475,Election Special,News,Marathi,Laptop,Mobile Plan,Lucknow,19,16-03-2024,5:00,315,12,1753.1,,
+HS10594,Comedy Circus Reloaded,Comedy,Hindi,Mobile,Mobile Plan,Kolkata,39,31-01-2024,10:15 AM,57,89.2,440.5,,Yes
+HS12505,Mahabharat Katha,Devotional,Marathi,Mobile,Free,Lucknow,31,18-06-2024,4:00 AM,27,59.8,154.3,,Yes
+HS10540,Baahubali Reprise,Regional Cinema,Tamil,Mobile,Super Plan,Kolkata,63,30-04-2024,0:00,62,24.1,442.9,,
+HS11692,Ramayan Retelling,Devotional,Telugu,Smart TV,Mobile Plan,Delhi,55,22-May-24,8:19,39,63.8,308.7,4,No
+HS12953,IPL: KKR vs SRH,Cricket,Bengali,Laptop,Mobile Plan,Delhi,36,27-05-2024,4:45,-17,74.2,87.2,5,No
+HS11182,The Laughter Club,Comedy,Telugu,Smart TV,Premium Plan,Lucknow,17,5/2/2024,4:30,40,65.4,161.3,1,Yes
+HS10822,The Laughter Club,Comedy,Hindi,Tablet,Mobile Plan,Kolkata,28,29-01-2024,1:45,45,63.6,346.1,4,No
+HS10526,Kantara,Regional Cinema,Bengali,Laptop,Free,Jaipur,22,15-06-2024,12:00 PM,48,67.8,343.1,,Yes
+HS12584,Vikram,Regional Cinema,Tamil,Smart TV,Super Plan,Jaipur,37,25-06-2024,21:00,68,86.3,443.2,2,Yes
+HS10896,Election Special,News,Telugu,Mobile,Mobile Plan,Delhi,54,12/4/2024,2:45,32,72,268.2,,Yes
+HS11480,Ramayan Retelling,Devotional,Tamil,Smart TV,Super Plan,Surat,145,23-Feb-24,2:00,32,71.4,240.7,2,Yes
+HS10866,Motu Patlu,Kids,Bengali,Mobile,Free,Pune,45,10-May-24,3:15 PM,31,34.8,182.6,,No
+HS10450,IPL: MI vs CSK,Cricket,English,Smart TV,Super Plan,Indore,47,9/3/2024,8:00 PM,44 min,40.5,233,1,No
+HS12759,Pushpa Rising,Regional Cinema,Hindi,Smart TV,Free,Hyderabad,54,18-02-2024,12:15 AM,85,88.1,606.1,,
+HS12904,Criminal Minds India,Thriller,Kannada,Laptop,Free,Bengaluru,61,25-Jun-24,10:45 AM,69,75.2,375.5,,No
+HS11303,Undercover,Thriller,Telugu,Mobile,Mobile Plan,Surat,48,14-04-2024,12:17 AM,38,62.7,260,3,No
+HS12921,IPL: KKR vs SRH,Cricket,Telugu,Mobile,Free,Ahmedabad,28,15-04-2024,8:00,54,15.3,352.2,,Yes
+HS10451,Undercover,Thriller,Kannada,Smart TV,Free,Delhi,3,16-01-2024,6:45,80,39.3,471.1,,Yes
+HS11139,Election Special,News,Telugu,Laptop,Mobile Plan,Hyderabad,40,24-Jan-24,8:30 PM,30,67.8,168.4,,Yes
+HS11768,Chhota Bheem,Kids,Tamil,Laptop,Super Plan,Surat,34,6-Mar-24,2:15 PM,57,98.1,317.3,2,Yes
+HS11064,Election Special,News,Bengali,Mobile,Premium Plan,Lucknow,49,6/3/2024,0:00,44,0,214.4,5,Yes
+HS11746,Vikram,Regional Cinema,Marathi,Mobile,Premium Plan,Jaipur,64,10-Jun-24,19:30,,51.8,259.2,,No
+HS12523,IPL: RCB vs GT,Cricket,English,Laptop,Super Plan,Pune,47,21-Jun-24,3:00 PM,39,92.8,314.8,,Yes
+HS10353,Criminal Minds India,Thriller,English,Smart TV,Free,Chennai,35,5/5/2024,13:30,3,22.3,14.4,,
+HS12596,The Laughter Club,Comedy,Telugu,Laptop,Mobile Plan,Kolkata,,24-01-2024,9:30 AM,-39,100,264.2,,No
+HS10281,IPL: MI vs CSK,Cricket,English,Smart TV,Super Plan,Chennai,57,8/6/2024,7:45 AM,55,68.9,386.6,2,Yes
+HS11843,Mahabharat Katha,Devotional,Tamil,Smart TV,Mobile Plan,Kolkata,39,2/2/2024,11:45 PM,51,99.9,398.5,4,
+HS12952,Motu Patlu,Kids,Tamil,Smart TV,Super Plan,Surat,49,9/3/2024,0:45,1 min,100,446.1,,No
+HS10734,Dil Ki Dastaan,Drama,Telugu,Smart TV,Super Plan,Indore,52,1/5/2024,6:30 AM,63,0,308.7,,No
+HS10034,Zindagi Gulzar Hai,Drama,Marathi,Laptop,Super Plan,Jaipur,37,17-06-2024,3:30 AM,68,72.1,579.3,1,No
+HS11205,Prime News Hour,News,Kannada,Mobile,Premium Plan,Ahmedabad,62,17-05-2024,10:45 PM,1,80.5,8.3,5,No
+HS10928,Business Today,News,Marathi,,Free,Bengaluru,19,25-01-2024,0:56,28,26.4,249.9,,Yes
+HS10201,Baahubali Reprise,Regional Cinema,English,Laptop,Free,Hyderabad,,15-02-2024,4:45 PM,-61,51,279.1,2,Yes
+HS10627,Hasi Ke Fatke,Comedy,Hindi,Tablet,Super Plan,Surat,25,31-01-2024,14:00,8,65.5,45.3,1,Yes
+HS12661,Shiv Mahima,Devotional,English,Tablet,Mobile Plan,Delhi,19,2/1/2024,22:30,51,100,295.5,,Yes
+HS11403,Hasi Ke Fatke,Comedy,Telugu,Tablet,Premium Plan,Bengaluru,20,10-Mar-24,10:45 PM,59,7.2,525.6,1,No
+HS10355,Comedy Circus Reloaded,Comedy,Marathi,Smart TV,Free,Ahmedabad,30,31-03-2024,11:15 PM,33,65.9,242.9,5,Yes
+HS12078,Undercover,Thriller,Tamil,Mobile,Super Plan,Ahmedabad,16,3/6/2024,11:22 PM,68,78.9,473,4,Yes
+HS10742,Chhota Bheem,Kids,Hindi,Tablet,Free,Hyderabad,27,16-04-2024,8:45 AM,18,20.2,101.2,,Yes
+HS12511,Chhota Bheem,Kids,Marathi,Smart TV,Mobile Plan,Ahmedabad,52,9-Mar-24,6:00,24,100,170.7,,No
+HS10327,Undercover,Thriller,Hindi,Laptop,Mobile Plan,Chennai,,16-04-2024,22:03,33 min,99,200.9,,No
+HS11234,Bigg Boss House,Reality Show,Kannada,Laptop,Free,Jaipur,45,31-01-2024,15:45,43,99.2,187.5,3,Yes
+HS12455,IPL: DC vs PBKS,Cricket,Telugu,Tablet,Super Plan,Mumbai,19,7/6/2024,10:00,27,100,188,1,No
+HS11364,IPL: MI vs CSK,Cricket,Tamil,Smart TV,Super Plan,Delhi,32,27-Apr-24,5:00 AM,25,91.2,207.2,,No
+HS12484,Comedy Circus Reloaded,Comedy,Kannada,Smart TV,Free,Chennai,20,29-Mar-24,4:30 AM,-59,61.5,277.6,,Yes
+HS11654,The Stakeout,Thriller,Tamil,Tablet,Free,Delhi,56,15-Feb-24,9:00 AM,50,99.3,363.3,,No
+HS10113,Dil Ki Dastaan,Drama,English,Mobile,Premium Plan,Delhi,45,8/3/2024,3:45,18,12.5,123.9,,Yes
+HS10260,Election Special,News,Hindi,Mobile,Free,Chennai,48,23-05-2024,3:30 PM,56,31.5,393.2,5,Yes
+HS11401,Kantara,Regional Cinema,Telugu,Tablet,Free,Delhi,62,4/5/2024,13:15,21,75.6,154,2,No
+HS10570,Bigg Boss House,Reality Show,Kannada,Mobile,Mobile Plan,Jaipur,30,16-05-2024,19:15,25,94.9,116.9,1,No
+HS12915,Shiv Mahima,Devotional,English,Smart TV,Super Plan,Pune,5,26-06-2024,5:00,9,77.4,61.3,,Yes
+HS12001,Rishtey Anjaane,Drama,Bengali,Laptop,Free,Kolkata,2,6-Mar-24,9:30,46,42.8,402.5,2,
+HS12175,Vikram,Regional Cinema,English,Smart TV,Free,Surat,29,7/4/2024,15:58,38,9.8,304.9,,Yes
+HS12788,Pushpa Rising,Regional Cinema,Telugu,Mobile,Premium Plan,Pune,22,8/2/2024,6:45 AM,11,76.1,86.8,2,No
+HS10994,Motu Patlu,Kids,Tamil,Smart TV,Free,Delhi,15,25-04-2024,2:15,44,11.6,343.6,,
+HS10474,Baahubali Reprise,Regional Cinema,Telugu,Mobile,Mobile Plan,Lucknow,30,1/5/2024,6:00,41,94.6,249.9,2,Yes
+HS12546,Mahabharat Katha,Devotional,Bengali,Smart TV,Super Plan,Lucknow,22,9/3/2024,5:30 AM,20,100,94.2,1,Yes
+HS12630,Bigg Boss House,Reality Show,Marathi,Laptop,Mobile Plan,Jaipur,45,30-Jan-24,8:30,24,66.4,101.3,,No
+HS12530,Undercover,Thriller,Telugu,Mobile,Free,Indore,45,21-May-24,12:01 AM,33,100,149.7,2,Yes
+HS11472,Ramayan Retelling,Devotional,Marathi,Mobile,Free,Pune,38,4/3/2024,5:41,52,62.1,235.5,4,Yes
+HS12723,Bigg Boss House,Reality Show,Kannada,Mobile,Mobile Plan,Pune,56,28-02-2024,1:45 PM,1,33.9,4.7,4,Yes
+HS10659,Little Singham,Kids,Tamil,Smart TV,Super Plan,Hyderabad,145,25-06-2024,6:48,37,88.7,219.9,5,
+HS10624,Criminal Minds India,Thriller,Kannada,Mobile,Free,Lucknow,30,20-03-2024,15:45,64,52.2,284.6,,No
+HS12696,Motu Patlu,Kids,Bengali,Mobile,Mobile Plan,Delhi,51,10/4/2024,20:15,-2,46.6,17.8,,Yes
+HS12259,The Laughter Club,Comedy,Hindi,Mobile,Free,Ahmedabad,41,2-May-24,13:52,29,85.7,134.6,3,
+HS12046,The Laughter Club,Comedy,Bengali,Mobile,Super Plan,Chennai,26,4/5/2024,8:35,-27,29.9,193,,No
+HS11105,Ghar Ek Sapna,Drama,Hindi,Mobile,Super Plan,Kolkata,63,16-04-2024,12:47 AM,735,21.5,5165.9,,Yes
+HS11538,Hasi Ke Fatke,Comedy,English,Mobile,Super Plan,Jaipur,64,12/2/2024,14:00,30,65.1,232.3,,
+HS11956,Ghar Ek Sapna,Drama,Telugu,Tablet,Free,Kolkata,48,10/6/2024,4:09 AM,-68,44.5,348.7,5,
+HS10190,Dil Ki Dastaan,Drama,Bengali,Mobile,Super Plan,Chennai,17,15-02-2024,0:13,1,21,5.2,,No
+HS11985,Ghar Ek Sapna,Drama,Marathi,Smart TV,Super Plan,Ahmedabad,20,30-06-2024,9:00 AM,-44,67.8,285.6,2,Yes
+HS11100,Prime News Hour,News,Tamil,Laptop,Free,Indore,30,5/5/2024,7:30 AM,37,51.5,267.4,,No
+HS12445,Motu Patlu,Kids,Bengali,Tablet,Super Plan,Delhi,32,23-03-2024,21:15,57,100,492.2,,No
+HS10852,Comedy Circus Reloaded,Comedy,Kannada,Tablet,Free,Lucknow,56,16-06-2024,3:45 AM,49,41.3,359.1,,Yes
+HS10057,Mahabharat Katha,Devotional,Tamil,Mobile,Premium Plan,Ahmedabad,43,21-05-2024,22:45,56 min,60.6,139.7,,Yes
+HS10029,Mahabharat Katha,Devotional,Bengali,Mobile,Mobile Plan,Kolkata,47,22-02-2024,13:00,1,88.2,5.4,5,No
+HS11823,The Stakeout,Thriller,Bengali,Smart TV,Premium Plan,Pune,22,19-03-2024,8:45,31,66,272.2,,
+HS12161,IPL: RR vs LSG,Cricket,Telugu,Smart TV,Mobile Plan,Pune,62,22-04-2024,8:12,55,60.9,306.6,,Yes
+HS12295,The Stakeout,Thriller,Marathi,Laptop,Super Plan,Pune,55,22-May-24,20:15,49,82.8,347.2,2,No
+HS10425,Chhota Bheem,Kids,Marathi,Laptop,Premium Plan,Ahmedabad,63,20-01-2024,4:15,57,69.2,392.7,1,Yes
+HS11822,The Laughter Club,Comedy,Telugu,Smart TV,Free,Bengaluru,26,31-03-2024,22:00,,83.3,83.2,2,
+HS11734,Kantara,Regional Cinema,Marathi,Mobile,Mobile Plan,Pune,47,9/2/2024,2:00 AM,53,80,380.1,,Yes
+HS11673,Hasi Ke Fatke,Comedy,Tamil,Laptop,Free,Kolkata,57,25-04-2024,11:45,37,67,279.1,4,
+HS11430,Prime News Hour,News,Tamil,Tablet,Free,Bengaluru,58,21-May-24,7:15,240,80.1,991.6,,No
+HS12480,Rishtey Anjaane,Drama,Telugu,Mobile,Mobile Plan,Surat,,16-05-2024,2:15 AM,30,39.9,183.1,5,Yes
+HS11993,Hasi Ke Fatke,Comedy,Tamil,Smart TV,Premium Plan,Bengaluru,46,28-05-2024,23:00,26,88.4,170,,No
+HS10925,Dance Deewane,Reality Show,English,Smart TV,Premium Plan,Ahmedabad,46,7-Mar-24,8:45,37,32,154.8,2,
+HS12851,India's Got Talent,Reality Show,Kannada,Tablet,Mobile Plan,Bengaluru,53,16-Feb-24,8:00 PM,33 min,39.5,35.9,2,Yes
+HS10387,The Stakeout,Thriller,Marathi,Smart TV,Mobile Plan,Ahmedabad,46,16-02-2024,3:15,33,100,181.5,,
+HS12660,Dil Ki Dastaan,Drama,Bengali,Tablet,Mobile Plan,Hyderabad,,15-04-2024,19:15,18,75.5,110.8,5,No
+HS11229,Criminal Minds India,Thriller,Marathi,Smart TV,Premium Plan,Lucknow,17,16-04-2024,15:15,38,40.2,243.3,5,No
+HS11539,Kantara,Regional Cinema,English,Mobile,Mobile Plan,Mumbai,48,21-03-2024,14:45,27,18.9,119.9,4,No
+HS12552,Comedy Circus Reloaded,Comedy,Bengali,Tablet,Mobile Plan,Hyderabad,59,25-Apr-24,11:15,89 min,26.8,51.5,3,No
+HS11775,Rishtey Anjaane,Drama,Bengali,Laptop,Premium Plan,Chennai,40,6/6/2024,22:00,22,99,118.5,2,Yes
+HS11719,Pushpa Rising,Regional Cinema,Marathi,Tablet,Super Plan,Pune,20,16-02-2024,12:15 AM,21,30.5,188.5,4,
+HS11408,Comedy Circus Reloaded,Comedy,Telugu,Mobile,Premium Plan,Pune,42,16-05-2024,3:00,8,36,70.8,,
+HS11106,Shiv Mahima,Devotional,Telugu,Tablet,Super Plan,Ahmedabad,28,31-05-2024,10:15 AM,-68,70.1,386.4,4,No
+HS11224,Kantara,Regional Cinema,Marathi,Smart TV,Mobile Plan,Ahmedabad,28,22-Jan-24,23:15,16 min,78.5,160.7,,
+HS10049,Mahabharat Katha,Devotional,Marathi,Smart TV,Mobile Plan,Jaipur,60,9-Jan-24,8:30 PM,79,26.9,492.4,1,
+HS12009,Ramayan Retelling,Devotional,Bengali,Mobile,Mobile Plan,Pune,56,23-05-2024,16:45,54,64,302.5,3,Yes
+HS11825,IPL: KKR vs SRH,Cricket,Telugu,Tablet,Free,Lucknow,61,9/3/2024,4:00,59,5.7,254,,No
+HS10335,Ghar Ek Sapna,Drama,Telugu,Smart TV,Mobile Plan,Lucknow,29,24-04-2024,11:43,46,81.5,281.4,,No
+HS11691,Vikram,Regional Cinema,Marathi,Tablet,Super Plan,Bengaluru,16,12/2/2024,18:30,10,36.7,63.8,,No
+HS11131,Shiv Mahima,Devotional,Kannada,Mobile,Super Plan,Delhi,19,8-Jun-24,3:15,53,100,420.2,1,
+HS10638,Ghar Ek Sapna,Drama,Marathi,Mobile,Free,Pune,14,7/6/2024,9:30 AM,-29,34.5,194,,No
+HS12808,Pushpa Rising,Regional Cinema,Telugu,Tablet,Premium Plan,Pune,39,4/2/2024,5:43 AM,30,51.5,251.5,,
+HS12484,Comedy Circus Reloaded,Comedy,Kannada,Smart TV,Free,Chennai,20,29-Mar-24,4:30 AM,-59,61.5,277.6,,Yes
+HS10800,Mahabharat Katha,Devotional,English,Mobile,Premium Plan,Indore,60,7/1/2024,5:00 PM,49 min,86.2,59,,No
+HS12740,Motu Patlu,Kids,Marathi,Tablet,Premium Plan,Surat,36,29-05-2024,2:15 PM,78,81.5,559,,Yes
+HS11036,IPL: DC vs PBKS,Cricket,Telugu,Tablet,Mobile Plan,Lucknow,51,2-Jan-24,7:13 AM,74,77.7,622.4,,Yes
+HS11323,Hasi Ke Fatke,Comedy,Kannada,Tablet,Mobile Plan,Hyderabad,54,6-May-24,3:45 PM,29,62,195.7,,
+HS10742,IPL: RR vs LSG,Cricket,Telugu,Smart TV,Mobile Plan,Surat,21,15-03-2024,8:15 AM,71,52.5,385.2,1,Yes
+HS12752,Comedy Circus Reloaded,Comedy,English,Smart TV,Super Plan,Kolkata,51,13-02-2024,19:15,48,82,246.9,3,Yes
+HS10133,Dance Deewane,Reality Show,Marathi,Laptop,Super Plan,Kolkata,25,26-04-2024,9:30 PM,56,69.9,286.9,,No
+HS10167,Dance Deewane,Reality Show,Kannada,Mobile,Free,Chennai,35,5/5/2024,12:30 AM,31 min,73.6,65.9,5,
+HS12309,Criminal Minds India,Thriller,Hindi,Laptop,Free,Indore,38,20-03-2024,11:30 AM,33,88.9,153.4,,Yes
+HS12216,Hasi Ke Fatke,Comedy,Telugu,Laptop,Super Plan,Jaipur,65,15-03-2024,12:33 AM,765,89.6,4375.1,4,No
+HS10824,Dil Ki Dastaan,Drama,English,Smart TV,Mobile Plan,Kolkata,32,26-Jun-24,7:30 PM,60,99.3,271.5,,Yes
+HS12535,IPL: KKR vs SRH,Cricket,Tamil,Smart TV,Super Plan,Ahmedabad,54,29-06-2024,17:15,70,100,584.9,5,No
+HS11655,Mahabharat Katha,Devotional,Marathi,Mobile,Mobile Plan,Chennai,26,14-01-2024,4:23 PM,30,16.1,259.2,,No
+HS10207,Mahabharat Katha,Devotional,Marathi,Smart TV,Free,Kolkata,23,15-04-2024,10:00 PM,615,34.3,3928.2,4,No
+HS10183,Dance Deewane,Reality Show,Hindi,Mobile,Mobile Plan,Surat,17,29-01-2024,7:30 AM,40,81.2,216.6,,Yes
+HS10959,Mahabharat Katha,Devotional,Telugu,Tablet,Super Plan,Jaipur,57,27-May-24,6:15 PM,67,53.7,593.8,,No
+HS11117,Baahubali Reprise,Regional Cinema,Hindi,Tablet,Free,Lucknow,38,22-Jun-24,11:45 PM,34,47.7,150.3,1,No
+HS11537,The Laughter Club,Comedy,Hindi,Mobile,Premium Plan,Kolkata,51,24-01-2024,7:45 PM,36,89.3,162.2,,No
+HS11822,Pushpa Rising,Regional Cinema,Hindi,Laptop,Mobile Plan,Bengaluru,65,20-01-2024,20:30,43,60,338.9,2,No
+HS12788,Shiv Mahima,Devotional,Marathi,Smart TV,Free,Hyderabad,54,29-03-2024,8:57 AM,960,26,7624,5,No
+HS11675,IPL: RR vs LSG,Cricket,Kannada,Laptop,Free,Ahmedabad,,22-Mar-24,12:45,39,75.9,280.1,3,Yes
+HS12954,IPL: RR vs LSG,Cricket,Telugu,Smart TV,Mobile Plan,Ahmedabad,2,7-Jun-24,4:15,67,60.2,318.7,,No
+HS11130,Bigg Boss House,Reality Show,Kannada,Tablet,Free,Jaipur,17,24-02-2024,1:30,330,83.2,1676.3,,No
+HS12203,India's Got Talent,Reality Show,Telugu,Laptop,Super Plan,Hyderabad,45,23-06-2024,6:21 AM,29,33.5,183.8,,Yes
+HS10563,IPL: KKR vs SRH,Cricket,Kannada,Tablet,Super Plan,Jaipur,22,5-Feb-24,2:00 PM,21 min,64.4,196.5,5,
+HS10866,The Laughter Club,Comedy,Marathi,Mobile,Free,Surat,43,8/1/2024,10:45 AM,73,73.1,341.6,,
+HS11401,Ramayan Retelling,Devotional,English,Smart TV,Super Plan,Chennai,24,20-Jan-24,3:37,22,55.1,153.8,1,
+HS11072,Ghar Ek Sapna,Drama,Kannada,Smart TV,Free,Bengaluru,55,16-06-2024,10:15,13,100,109.3,5,Yes
+HS12211,Prime News Hour,News,Telugu,Tablet,Free,Lucknow,24,11-May-24,21:48,17 min,98.3,367.9,,No
+HS10967,Ramayan Retelling,Devotional,English,Laptop,Free,Pune,25,19-06-2024,10:24 PM,-57,72.7,269.8,,No
+HS11603,Kantara,Regional Cinema,Bengali,Smart TV,Free,Mumbai,50,27-06-2024,22:54,195,16.1,1226.1,3,No
+HS10647,Zindagi Gulzar Hai,Drama,Tamil,,Free,Kolkata,28,18-04-2024,14:30,17,30.2,93.1,5,Yes
+HS10277,The Stakeout,Thriller,Bengali,Mobile,Super Plan,Hyderabad,57,12/2/2024,22:30,39,39.4,252.5,4,
+HS10516,Shiv Mahima,Devotional,Tamil,Tablet,Mobile Plan,Jaipur,40,7-Jun-24,5:15 AM,9 min,0,98.5,3,Yes
+HS11002,The Laughter Club,Comedy,Bengali,Laptop,Free,Kolkata,55,10/2/2024,3:30 AM,26,100,203.2,2,Yes
+HS12619,Ghar Ek Sapna,Drama,Marathi,Laptop,Free,Hyderabad,,5/2/2024,21:47,48,55.9,336.5,,
+HS11823,The Stakeout,Thriller,Bengali,Smart TV,Premium Plan,Pune,22,19-03-2024,8:45,31,66,272.2,,
+HS12151,Shiv Mahima,Devotional,Tamil,Laptop,Mobile Plan,Delhi,33,15-02-2024,1:15,14,49.4,67.6,,Yes
+HS10611,Vikram,Regional Cinema,English,Smart TV,Super Plan,Delhi,63,1/5/2024,4:37 PM,49,73.4,242,,No
+HS12613,Prime News Hour,News,Marathi,Laptop,Premium Plan,Kolkata,,24-Mar-24,7:45,48,42.8,428.8,4,Yes
+HS11359,Motu Patlu,Kids,Kannada,Laptop,Mobile Plan,Chennai,46,12-Apr-24,12:15,10,59,43.9,4,
+HS11630,Motu Patlu,Kids,English,Tablet,Free,Bengaluru,58,18-Jan-24,4:30 PM,,88.5,412.3,,No
+HS11346,Undercover,Thriller,Tamil,Mobile,Free,Kolkata,,21-06-2024,1:52,,100,76.3,,No
+HS10387,Ramayan Retelling,Devotional,Telugu,Laptop,Free,Indore,54,17-06-2024,10:05 AM,44,38.6,306.9,2,Yes
+HS10213,Bigg Boss House,Reality Show,English,Smart TV,Mobile Plan,Indore,50,4/1/2024,8:00,36,63.4,251.3,,Yes
+HS10855,Election Special,News,Hindi,Smart TV,Premium Plan,Chennai,33,31-Jan-24,7:44 AM,57,98,380.1,,Yes
+HS10699,Business Today,News,Kannada,,Premium Plan,Chennai,41,11/2/2024,5:00,34,61.4,288.8,1,No
+HS10745,Comedy Circus Reloaded,Comedy,Bengali,Mobile,Super Plan,Chennai,46,12/5/2024,9:15,42,22.6,209.2,3,
+HS10701,IPL: RR vs LSG,Cricket,Telugu,Mobile,Super Plan,Chennai,49,29-Mar-24,10:00 PM,18 min,100,325.4,1,
+HS10447,Bigg Boss House,Reality Show,English,Mobile,Mobile Plan,Delhi,48,18-04-2024,8:15 AM,39 min,17.3,304.4,,
+HS12720,Bigg Boss House,Reality Show,Marathi,Mobile,Premium Plan,Jaipur,,21-Jan-24,16:30,23,66.5,157.9,2,No
+HS12645,Rishtey Anjaane,Drama,Marathi,Mobile,Mobile Plan,Lucknow,47,30-06-2024,5:00 PM,-24,74.8,158.6,5,No
+HS12757,Shiv Mahima,Devotional,Kannada,Smart TV,Mobile Plan,Pune,64,21-Jan-24,7:45 PM,435,50.8,3071.8,,No
+HS12357,Pushpa Rising,Regional Cinema,Marathi,Laptop,Super Plan,Pune,21,8-Mar-24,11:15,36,56.3,287.2,2,
+HS11941,Election Special,News,Telugu,Smart TV,Super Plan,Pune,50,15-03-2024,2:15 AM,46,0,295.8,3,
+HS10866,Motu Patlu,Kids,Bengali,Mobile,Free,Pune,45,10-May-24,3:15 PM,31,34.8,182.6,,No
+HS12380,The Stakeout,Thriller,Hindi,,Premium Plan,Jaipur,19,14-01-2024,20:15,44,84.5,283.2,5,
+HS12305,Criminal Minds India,Thriller,Tamil,Laptop,Mobile Plan,Jaipur,19,3/3/2024,5:30 PM,510,66.5,3344.4,,No
+HS12912,Dance Deewane,Reality Show,Telugu,,Free,Ahmedabad,19,17-03-2024,5:45 AM,55,55.2,438.3,,Yes
+HS12386,The Laughter Club,Comedy,Marathi,Mobile,Free,Hyderabad,14,24-06-2024,14:38,29,100,247.9,,No
+HS12234,Dance Deewane,Reality Show,Kannada,,Premium Plan,Jaipur,14,6/3/2024,14:45,45 min,53.4,204.3,,Yes
+HS11791,Bigg Boss House,Reality Show,English,Mobile,Premium Plan,Mumbai,20,30-Jan-24,19:00,24,59.7,115.7,1,Yes
+HS10599,Motu Patlu,Kids,English,Mobile,Free,Lucknow,56,16-06-2024,5:45,13,20.4,73,5,Yes
+HS10667,Comedy Circus Reloaded,Comedy,Marathi,Mobile,Free,Bengaluru,145,6/2/2024,1:45 PM,19,79.3,133.3,1,No
+HS12154,Ghar Ek Sapna,Drama,Telugu,Tablet,Super Plan,Jaipur,55,11/5/2024,2:15 PM,66 min,100,277.2,,Yes
+HS12119,Ghar Ek Sapna,Drama,Tamil,Laptop,Mobile Plan,Surat,16,12-Feb-24,1:00 AM,62,70.3,549.5,5,No
+HS11191,Ghar Ek Sapna,Drama,Hindi,Laptop,Super Plan,Chennai,13,18-02-2024,6:15 PM,50,29.3,333.9,,No
+HS11862,Shiv Mahima,Devotional,Kannada,Tablet,Premium Plan,Kolkata,63,20-06-2024,10:30,29,12.2,124.5,,No
+HS11475,Election Special,News,Marathi,Laptop,Mobile Plan,Lucknow,19,16-03-2024,5:00,315,12,1753.1,,
+HS12701,Ghar Ek Sapna,Drama,Marathi,Smart TV,Free,Surat,31,14-May-24,17:15,720,44,4446.5,,Yes
+HS11119,Baahubali Reprise,Regional Cinema,Telugu,Smart TV,Mobile Plan,Kolkata,30,7-Feb-24,6:58 AM,38,53,301.7,,Yes
+HS11442,Shiv Mahima,Devotional,Bengali,Mobile,Premium Plan,Delhi,46,30-Jun-24,21:47,28,28.2,132.3,,Yes
+HS11238,India's Got Talent,Reality Show,Bengali,Laptop,Free,Jaipur,61,19-05-2024,1:45,36,100,153.8,,Yes
+HS10648,Business Today,News,Kannada,Mobile,Free,Ahmedabad,34,29-Jun-24,4:15 PM,26,54.1,140.2,2,Yes
+HS12854,India's Got Talent,Reality Show,Tamil,Mobile,Super Plan,Hyderabad,51,10/5/2024,13:15,27,39.9,124.8,,Yes
+HS10158,Criminal Minds India,Thriller,English,Tablet,Free,Chennai,,28-02-2024,0:15,42,86.5,275,,
+HS12005,Vikram,Regional Cinema,English,Mobile,Free,Bengaluru,60,27-04-2024,22:32,48,85.7,413.2,3,Yes
+HS12848,Chhota Bheem,Kids,Marathi,Mobile,Premium Plan,Jaipur,61,8-Jan-24,19:45,27,71.8,157.9,1,
+HS11432,Prime News Hour,News,Kannada,Laptop,Super Plan,Hyderabad,26,25-06-2024,9:45,44,68.4,235.2,2,No
+HS12315,Kantara,Regional Cinema,Tamil,Smart TV,Free,Jaipur,43,23-May-24,5:30 PM,26,50.9,223.8,1,No
+HS10525,Zindagi Gulzar Hai,Drama,Marathi,Mobile,Super Plan,Bengaluru,41,23-Mar-24,13:15,12,80.1,84.2,,
+HS12082,Pushpa Rising,Regional Cinema,Kannada,Mobile,Super Plan,Kolkata,51,24-06-2024,5:00 AM,31,52.8,164.8,,Yes
+HS11458,IPL: KKR vs SRH,Cricket,Tamil,Mobile,Super Plan,Surat,33,20-01-2024,8:00 PM,,67.3,56.1,3,Yes
+HS12682,Zindagi Gulzar Hai,Drama,Bengali,Tablet,Premium Plan,Surat,19,12/3/2024,22:15,53,25.5,450.9,,Yes
+HS11910,Hasi Ke Fatke,Comedy,English,Laptop,Mobile Plan,Hyderabad,46,9/6/2024,3:50 PM,9 min,54.3,194.8,5,Yes
+HS11325,IPL: MI vs CSK,Cricket,English,Mobile,Super Plan,Lucknow,38,6/2/2024,4:30 PM,39,89.5,214.8,,No
+HS10583,Chhota Bheem,Kids,English,Smart TV,Mobile Plan,Pune,24,2/4/2024,0:15,36,79,176.1,2,Yes
+HS11805,IPL: RR vs LSG,Cricket,Tamil,Smart TV,Free,Jaipur,36,16-03-2024,23:15,25,60.1,134.1,,No
+HS11640,Chhota Bheem,Kids,English,Mobile,Free,Bengaluru,25,27-05-2024,3:30 AM,57,37.1,362.8,2,Yes
+HS11667,Business Today,News,Marathi,Mobile,Mobile Plan,Jaipur,62,5/2/2024,3:36 AM,11,77.6,92.7,,No
+HS10749,Business Today,News,Hindi,Smart TV,Mobile Plan,Surat,2,19-Mar-24,10:30 AM,32,12,139.4,5,No
+HS12172,Dance Deewane,Reality Show,Telugu,Tablet,Free,Lucknow,61,4/4/2024,11:20 PM,22,50.3,97,,No
+HS10362,Prime News Hour,News,Kannada,Smart TV,Mobile Plan,Chennai,30,28-Jun-24,1:00 PM,79,96.3,481.8,3,Yes
+HS10404,Criminal Minds India,Thriller,English,Smart TV,Free,Delhi,57,22-Feb-24,6:36,1,55.2,8.5,1,Yes
+HS11092,Comedy Circus Reloaded,Comedy,Telugu,,Super Plan,Bengaluru,13,28-05-2024,11:45 PM,9,26.8,43.3,2,Yes
+HS10673,The Stakeout,Thriller,Tamil,Tablet,Free,Chennai,56,1/4/2024,14:45,-44,100,184.9,5,Yes
+HS11714,Ramayan Retelling,Devotional,Kannada,Tablet,Mobile Plan,Lucknow,46,1-Mar-24,9:45 AM,1,70.9,4.7,5,No
+HS10744,Criminal Minds India,Thriller,Tamil,Laptop,Free,Jaipur,44,1/6/2024,5:00 PM,-105,32.4,759.1,4,No
+HS10693,Dance Deewane,Reality Show,Bengali,Smart TV,Free,Chennai,39,13-Apr-24,4:46 PM,27 min,47.7,78.3,2,Yes
